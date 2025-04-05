@@ -17,7 +17,31 @@ NoteBook-X is a collaborative and AI-assisted Class X notes archive designed to 
 
 📂 Directory Structure
 
-
+├───CBSE-PAQs
+│   └───SOCIAL-SCIENCE
+├───ENGLISH
+├───INFORMATION-TECHNOLOGY
+├───MATHS
+├───NCERT-PDF
+│   └───HISTORY
+├───PROMPT-DESIGNS
+│   ├───BIOLOGY
+│   ├───CHEMISTRY
+│   ├───ENGLISH
+│   ├───GEOGRAPHY
+│   ├───HISTORY
+│   ├───INFORMATION-TECHNOLOGY
+│   ├───MATHS
+│   └───PHYSICS
+├───SCIENCE
+│   ├───BIOLOGY
+│   ├───CHEMISTRY
+│   └───PHYSICS
+└───SOCIAL-SCIENCE
+    ├───ECONOMICS
+    ├───GEOGRAPHY
+    ├───HISTORY
+    └───POLITICAL-SCIENCE
 
 📁 If a folder doesn’t exist yet, you can create it.
 📄 File Formatting Standards
