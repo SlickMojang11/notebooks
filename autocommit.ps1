@@ -11,9 +11,9 @@ if ($LASTEXITCODE -eq 0) {
     git remote add origin $remoteUrl
 }
 
-Write-Host "📡 Auto-committer started. Watching for changes every $interval seconds..."
-Write-Host "🔗 Remote: $remoteUrl"
-Write-Host "🕒 Started at: $(Get-Date -Format 'HH:mm:ss')"
+Write-Host "Auto-committer started. Watching for changes every $interval seconds..."
+Write-Host "Remote: $remoteUrl"
+Write-Host "Started at: $(Get-Date -Format 'HH:mm:ss')"
 Write-Host "`nPress Ctrl+C to stop anytime.`n"
 
 # === LOOP ===
