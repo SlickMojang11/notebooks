@@ -1,7 +1,3 @@
-Sure! Here's the **updated Prompt Design** for **Class X Geography – Chapter 1: Resources and Development**, with specific instructions to present **all content point-wise**, in a **systematic and structured format** using tools like tables, charts, quick reviews, and with a strong focus on clarity and exam alignment.
-
----
-
 ## 📘 Prompt Design for Gemini Deep Research  
 ### Subject: **Geography (Class X)**  
 ### Chapter: **Chapter 1 – Resources and Development**
@@ -152,7 +148,3 @@ https://drive.google.com/drive/folders/1FCNttiirWkkaI-qNNSi7wCTDYegQTFNR
 7. **MAXIMIZED Questions** instead of small model sets  
 8. **Segmentation of Questions by Format** (MCQ, Assertion-Reason, etc.)  
 9. **Added Clarity, Visual Hierarchy, and Scannable Sections**
-
----
-
-Would you like this as a `PROMPTS.md` file entry for GitHub too?
