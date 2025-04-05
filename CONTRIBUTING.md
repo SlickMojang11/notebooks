@@ -17,6 +17,7 @@ NoteBook-X is a collaborative and AI-assisted Class X notes archive designed to 
 
 📂 Directory Structure
 
+UBSR-Notebooks
 ├───CBSE-PAQs
 │   └───SOCIAL-SCIENCE
 ├───ENGLISH
