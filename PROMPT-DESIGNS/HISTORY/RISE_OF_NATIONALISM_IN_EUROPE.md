@@ -1,7 +1,3 @@
-Perfect! Adding **constraints** ensures that the AI adheres closely to the **official syllabus** and provides **clean, exam-oriented outputs**. Here's the **final, professional-level Prompt Design** for **Gemini Deep Research**, with all **sections redesigned**, **study tools properly defined**, and **constraints clearly laid out** for generating high-quality notes and study resources for **History Class X – Chapter 1**.
-
----
-
 ## 📌 **Final Prompt Design for Gemini Deep Research**
 
 ### 📘 **Topic**  
@@ -198,7 +194,3 @@ Define the following with 1–2 lines:
 ### ✅ **Output File Format**
 - Use **Markdown** or structured headings for readability.
 - Ensure neat formatting with headings, bold highlights, bullet lists, and sections properly separated.
-
----
-
-Would you like me to **implement this prompt and generate the actual notes** for Chapter 1 right now based on this design? Or would you prefer to first test this prompt inside Gemini yourself?
