@@ -41,26 +41,30 @@ We welcome contributions that match our format and maintain the clarity, structu
 UBSR-Notebooks
 ├───CBSE-PAQs
 │   └───SOCIAL-SCIENCE
-├───ENGLISH
-├───INFORMATION-TECHNOLOGY
-├───MATHS
 ├───NCERT-PDF
-│   └───HISTORY
-├───PROMPT-DESIGNS
-│   ├───BIOLOGY
-│   ├───CHEMISTRY
-│   ├───ENGLISH
+│   ├───ECONOMICS
 │   ├───GEOGRAPHY
 │   ├───HISTORY
+│   └───POLITICAL-SCIENCE
+├───NOTES
+│   ├───ENGLISH
 │   ├───INFORMATION-TECHNOLOGY
 │   ├───MATHS
-│   └───PHYSICS
-├───SCIENCE
-│   ├───BIOLOGY
-│   ├───CHEMISTRY
-│   └───PHYSICS
-└───SOCIAL-SCIENCE
-    ├───ECONOMICS
+│   ├───SCIENCE
+│   │   ├───BIOLOGY
+│   │   ├───CHEMISTRY
+│   │   └───PHYSICS
+│   └───SOCIAL-SCIENCE
+│       ├───ECONOMICS
+│       ├───GEOGRAPHY
+│       ├───HISTORY
+│       └───POLITICAL-SCIENCE
+└───PROMPT-DESIGNS
+    ├───BIOLOGY
+    ├───CHEMISTRY
+    ├───ENGLISH
     ├───GEOGRAPHY
     ├───HISTORY
-    └───POLITICAL-SCIENCE
+    ├───INFORMATION-TECHNOLOGY
+    ├───MATHS
+    └───PHYSICS
