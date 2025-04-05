@@ -1,7 +1,3 @@
-Here's your **updated Prompt Design for Gemini Deep Research** for **Class X Economics – Chapter 1: Development**, incorporating the **NCERT PDF** and **PAQs folder** you provided, along with all previously discussed features like full point-format notes, charts/tables, max question generation, and subject-specific tools.
-
----
-
 ## 📘 Prompt Design for Gemini Deep Research  
 ### Subject: **Economics** (Class X)  
 ### Chapter: **Chapter 1 – Development**  
@@ -159,7 +155,3 @@ Sources:
 6. **Custom Flowcharts** for economic development logic  
 7. **Visual learning tools** like data charts and diagram-based questions  
 8. **Use of provided PAQs to align content with Board-style paper setting**
-
----
-
-Would you like this now exported into a `PROMPTS.md` format entry for your GitHub?
