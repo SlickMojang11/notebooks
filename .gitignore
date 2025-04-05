@@ -1,1 +1,2 @@
-autocommit.ps1
+#Exclude .ps1 files
+*.ps1
