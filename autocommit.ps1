@@ -25,9 +25,9 @@ while ($true) {
         $commitMessage = "Auto-commit: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
         git commit -m "$commitMessage"
         git push -u origin main
-        Write-Host "✅ Changes pushed at $(Get-Date -Format 'HH:mm:ss')"
+        Write-Host "Changes pushed at $(Get-Date -Format 'HH:mm:ss')"
     } else {
-        Write-Host "⏳ No changes at $(Get-Date -Format 'HH:mm:ss')"
+        Write-Host "No changes at $(Get-Date -Format 'HH:mm:ss')"
     }
 
     Start-Sleep -Seconds $interval
