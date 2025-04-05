@@ -24,4 +24,4 @@ All prompts should be clean, easy to reuse, and relevant to NCERT-based chapters
 ## 📁 Naming Convention for Files
 
 Use this format for file names:
-
+PROMPTS/[SUBJECT]/CHAPTER-[NUMBER].md
