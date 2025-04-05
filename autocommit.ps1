@@ -1,6 +1,6 @@
 # === CONFIG ===
 $remoteUrl = "https://github.com/ubsr-official/notebooks.git"  # CHANGE THIS (IF REQUIRED)
-$interval = 60  # seconds between commits
+$interval = 10  # seconds between commits
 
 # === SETUP ===
 git branch -M main
