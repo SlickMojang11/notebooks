@@ -1,26 +1,34 @@
+# === CONFIG ===
+$remoteUrl = "https://github.com/ubsr-official/notebooks.git"  # CHANGE THIS (IF REQUIRED)
+$interval = 60  # seconds between commits
+
+# === SETUP ===
+git branch -M main
+$existingRemote = git remote get-url origin 2>$null
+if ($LASTEXITCODE -eq 0) {
+    git remote set-url origin $remoteUrl
+} else {
+    git remote add origin $remoteUrl
+}
+
+Write-Host "📡 Auto-committer started. Watching for changes every $interval seconds..."
+Write-Host "🔗 Remote: $remoteUrl"
+Write-Host "🕒 Started at: $(Get-Date -Format 'HH:mm:ss')"
+Write-Host "`nPress Ctrl+C to stop anytime.`n"
+
+# === LOOP ===
 while ($true) {
-    # Navigate to the Git repo
-    Set-Location -Path "X:/NoteBook-X"
+    $hasChanges = git status --porcelain
 
-    # Check for changes
-    $changes = git status --porcelain
-
-    if ($changes) {
-        # Stage all changes
+    if ($hasChanges) {
         git add .
-
-        # Commit with timestamp
-        $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-        git commit -m "Auto-commit at $timestamp"
-
-        # Push changes
-        git push origin main
-
-        Write-Host "Changes committed and pushed at $timestamp"
+        $commitMessage = "Auto-commit: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+        git commit -m "$commitMessage"
+        git push -u origin main
+        Write-Host "✅ Changes pushed at $(Get-Date -Format 'HH:mm:ss')"
     } else {
-        Write-Host "No changes detected"
+        Write-Host "⏳ No changes at $(Get-Date -Format 'HH:mm:ss')"
     }
 
-    # Wait 60 seconds before checking again
-    Start-Sleep -Seconds 10
+    Start-Sleep -Seconds $interval
 }
