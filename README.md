@@ -46,6 +46,15 @@ UBSR-Notebooks
 ├───MATHS
 ├───NCERT-PDF
 │   └───HISTORY
+├───PROMPT-DESIGNS
+│   ├───BIOLOGY
+│   ├───CHEMISTRY
+│   ├───ENGLISH
+│   ├───GEOGRAPHY
+│   ├───HISTORY
+│   ├───INFORMATION-TECHNOLOGY
+│   ├───MATHS
+│   └───PHYSICS
 ├───SCIENCE
 │   ├───BIOLOGY
 │   ├───CHEMISTRY
