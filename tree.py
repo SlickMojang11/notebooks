@@ -13,6 +13,6 @@ def generate_tree(start_path='.', prefix=''):
             extension = '    ' if index == len(entries) - 1 else '│   '
             generate_tree(path, prefix + extension)
 
-generate = input("cd")
+generate = input("cd: ")
 generate_str = "X:/NoteBook-X/" + generate
 generate_tree(generate_str)  # For current directory
