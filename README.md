@@ -62,8 +62,7 @@ NoteBook-X/
 └── autocommit.ps1 / tree.py      # Utility scripts
 ```
 
-📎 **Link to NCERT PDFs**: [Add your NCERT-PDFs.md URL here]
-- [NCERT-PDFs](https://github.com/ubsr-official/notebooks/blob/main/NCERT-PDFs.md)
+📎 **Link to NCERT PDFs**: [NCERT-PDFs](https://github.com/ubsr-official/notebooks/blob/main/NCERT-PDFs.md)
 
 ---
 
