@@ -46,7 +46,7 @@ PROMPT-DESIGNS/
     └── POLITICAL-SCIENCE/
 ```
 
-Each `.md` file should be named by subject and chapter number. Example: `CHAPTER-1.md`
+Each `.md` file should be named by the Chapter Name. Example: `RISE_OF_NATIONALISM_IN_EUROPE`
 
 ---
 
