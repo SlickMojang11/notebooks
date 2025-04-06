@@ -28,27 +28,22 @@ A **prompt** is a carefully crafted instruction given to an AI model like ChatGP
 ## 🗂️ PROMPTS Directory Structure
 
 ```
-PROMPTS/
-├── MATHS/
-│   └── CHAPTER-1.md
-├── SCIENCE/
-│   ├── PHYSICS/
-│   │   └── CHAPTER-2.md
-│   ├── CHEMISTRY/
-│   │   └── CHAPTER-3.md
-│   └── BIOLOGY/
-│       └── CHAPTER-4.md
-├── SOCIAL-SCIENCE/
-│   ├── HISTORY/
-│   │   └── CHAPTER-1.md
-│   ├── POLITICAL-SCIENCE/
-│   │   └── CHAPTER-2.md
-│   ├── ECONOMICS/
-│   │   └── CHAPTER-3.md
-│   └── GEOGRAPHY/
-│       └── CHAPTER-4.md
-└── ENGLISH/
-    └── CHAPTER-1.md
+PROMPT-DESIGNS/
+├── ENGLISH
+├── INFORMATION-TECHNOLOGY
+├── MATHS
+├── SCIENCE
+│   ├── BIOLOGY
+│   ├── CHEMISTRY
+│   └── PHYSICS
+└── SOCIAL-SCIENCE
+    ├── ECONOMICS
+    │   └── DEVELOPMENT.md
+    ├── GEOGRAPHY
+    │   └── RESOURCE_AND_DEVELOPMENT.md
+    ├── HISTORY
+    │   └── RISE_OF_NATIONALISM_IN_EUROPE.md
+    └── POLITICAL-SCIENCE
 ```
 
 Each `.md` file should be named by subject and chapter number. Example: `CHAPTER-1.md`
