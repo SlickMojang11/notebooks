@@ -51,14 +51,13 @@
 - [Acids, Bases and Salts](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE-CHEMISTRY-ACIDS_BASES_AND_SALTS-2.pdf)
 - [Metals and Non-metals](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE-CHEMISTRY-METALS_AND_NON_METALS-3.pdf)
 - [Carbon and its Compounds](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS-4.pdf)
-- [Periodic Classification of Elements](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS-5.pdf)
 
 ##### ⚙️ PHYSICS
-- [Electricity](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/PHYSICS/SCIENCE-PHYSICS-ELECTRICITY-10.pdf)
-- [Magnetic Effects of Electric Current](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/PHYSICS/SCIENCE-PHYSICS-MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT-11.pdf)
+- [Electricity](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/PHYSICS/SCIENCE-PHYSICS-ELECTRICITY-11.pdf)
+- [Magnetic Effects of Electric Current](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/PHYSICS/SCIENCE-PHYSICS-MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT-12.pdf)
 - [Sources of Energy](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/PHYSICS/SCIENCE-PHYSICS-SOURCES_OF_ENERGY-12.pdf)
 - [Light – Reflection and Refraction](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/PHYSICS/SCIENCE-PHYSICS-LIGHT_REFLECTION_AND_REFRACTION-9.pdf)
-- [The Human Eye and the Colourful World](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/PHYSICS/SCIENCE-PHYSICS-HUMAN_EYE_AND_COLOURFUL_WORLD-14.pdf)
+- [The Human Eye and the Colourful World](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SCIENCE/PHYSICS/SCIENCE-PHYSICS-HUMAN_EYE_AND_COLOURFUL_WORLD-10.pdf)
 
 ---
 
