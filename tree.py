@@ -13,6 +13,4 @@ def generate_tree(start_path='.', prefix=''):
             extension = '    ' if index == len(entries) - 1 else '│   '
             generate_tree(path, prefix + extension)
 
-# Example usage:
-# generate_tree("X:/NoteBook-X")  # Replace with your actual path
 generate_tree("X:/NoteBook-X")  # For current directory
