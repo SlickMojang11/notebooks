@@ -16,3 +16,5 @@ def generate_tree(start_path='.', prefix=''):
 # Example usage:
 # generate_tree("X:/NoteBook-X")  # Replace with your actual path
 generate_tree("X:/NoteBook-X")  # For current directory
+
+input("PRESS ANY KEY TO EXIT")
