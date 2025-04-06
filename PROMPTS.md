@@ -125,4 +125,5 @@ Mention if you edited or fixed anything manually. Write like:
 Good prompts make good notes. Your contribution improves education for thousands of students using NoteBook-X every day 💙
 
 Have questions? Ask in the Issues tab or check out `BEGINNERS.md` to get started!
+[BEGINNERS.md](https://github.com/ubsr-official/notebooks/blob/main/BEGINNERS.md)
 
