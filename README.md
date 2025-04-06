@@ -6,7 +6,7 @@ Welcome to **NoteBook-X**, your go-to collection of **AI-assisted, NCERT-based s
 
 ---
 
-**Organization**: UBSR  
+**Organization**: United Boys Socialist Republic [UBSR]
 **Sub-Organization**: Study Association  
 **Creator**: Coding UHub
 
