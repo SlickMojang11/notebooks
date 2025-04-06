@@ -63,7 +63,7 @@ NoteBook-X/
 ```
 
 📎 **Link to NCERT PDFs**: [Add your NCERT-PDFs.md URL here]
-
+- [NCERT-PDFs](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY-RISE_OF_NATIONALISM_IN_EUROPE-1.pdf)
 
 ---
 
