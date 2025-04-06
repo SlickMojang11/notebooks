@@ -29,21 +29,21 @@ A **prompt** is a carefully crafted instruction given to an AI model like ChatGP
 
 ```
 PROMPT-DESIGNS/
-├── ENGLISH
-├── INFORMATION-TECHNOLOGY
-├── MATHS
-├── SCIENCE
-│   ├── BIOLOGY
-│   ├── CHEMISTRY
-│   └── PHYSICS
-└── SOCIAL-SCIENCE
-    ├── ECONOMICS
+├── ENGLISH/
+├── INFORMATION-TECHNOLOGY/
+├── MATHS/
+├── SCIENCE/
+│   ├── BIOLOGY/
+│   ├── CHEMISTRY/
+│   └── PHYSICS/
+└── SOCIAL-SCIENCE/
+    ├── ECONOMICS/
     │   └── DEVELOPMENT.md
-    ├── GEOGRAPHY
+    ├── GEOGRAPHY/
     │   └── RESOURCE_AND_DEVELOPMENT.md
-    ├── HISTORY
+    ├── HISTORY/
     │   └── RISE_OF_NATIONALISM_IN_EUROPE.md
-    └── POLITICAL-SCIENCE
+    └── POLITICAL-SCIENCE/
 ```
 
 Each `.md` file should be named by subject and chapter number. Example: `CHAPTER-1.md`
