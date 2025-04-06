@@ -177,9 +177,3 @@ Keep notes Class X based | Push junk or unrelated files
 
 Every contribution helps us build a better learning ecosystem 🌱  
 Let’s make Class X revision easy, smart, and free — together 💙
-
----
-
-> Maintained with 💡 by contributors from all over India 🇮🇳
-> 
-> Want to join the mission? Fork the repo and start contributing today!
