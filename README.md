@@ -75,8 +75,6 @@ The `PROMPTS/` folder stores the prompts we used to generate AI-powered notes. I
 - ♻️ Reusing good prompts across subjects
 - 📚 Understanding how AI can help in studies
 
-🧾 **Naming Format:** `PROMPTS/[SUBJECT]/CHAPTER-[NUMBER].md`
-
 Each file contains:
 
 - 📝 The exact prompt used
@@ -100,7 +98,7 @@ We welcome everyone — **students, teachers, coders, and beginners**!
 ✅ That’s it! We’ll review and merge it!
 
 If you're completely new to GitHub:
-- 🌱 Start with `BEGINNERS.md` — written for absolute beginners!
+- 🌱 Start with [BEGINNERS.md](https://github.com/ubsr-official/notebooks/blob/main/BEGINNERS.md) — written for absolute beginners!
 - 🖱️ Use the GitHub website — no coding setup needed
 - 💬 If stuck, open an Issue and ask for help
 - 👥 Watch others' contributions to learn quickly
