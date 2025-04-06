@@ -65,17 +65,16 @@
 #### 📖 ENGLISH
 
 ##### ✍️ FIRST FLIGHT (Main Reader)
-- [A Letter to God](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FIRST_FLIGHT-A_LETTER_TO_GOD-1.pdf)
-- [Nelson Mandela: Long Walk to Freedom](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FIRST_FLIGHT-NELSON_MANDELA-2.pdf)
-- [Two Stories About Flying](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FIRST_FLIGHT-TWO_STORIES_ABOUT_FLYING-3.pdf)
-- [From the Diary of Anne Frank](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FIRST_FLIGHT-FROM_THE_DIARY_OF_ANNE_FRANK-4.pdf)
-- [The Hundred Dresses – I](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FIRST_FLIGHT-THE_HUNDRED_DRESSES_PART_1-5.pdf)
-- [The Hundred Dresses – II](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FIRST_FLIGHT-THE_HUNDRED_DRESSES_PART_2-6.pdf)
-- [Glimpses of India](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FIRST_FLIGHT-GLIMPSES_OF_INDIA-7.pdf)
-- [Mijbil the Otter](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FIRST_FLIGHT-MIJBIL_THE_OTTER-8.pdf)
-- [Madam Rides the Bus](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FIRST_FLIGHT-MADAM_RIDES_THE_BUS-9.pdf)
-- [The Sermon at Benares](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FIRST_FLIGHT-THE_SERMON_AT_BENARES-10.pdf)
-- [The Proposal (Play)](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FIRST_FLIGHT-THE_PROPOSAL-11.pdf)
+- [Section 1 – Chapters 1 to 3](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT-SECTION1-CH(1-3).pdf)
+- [Section 2 – Chapters 4 to 5](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT-SECTION2-CH(4-5).pdf)
+- [Section 3 – Chapters 6 to 8](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT-SECTION3-CH(6-8).pdf)
+- [Section 4 – Chapters 9 to 10](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT-SECTION4-CH(9-10).pdf)
+- [Section 5 – Chapters 11 to 12](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT-SECTION5-CH(11-12).pdf)
+- [Section 6 – Chapters 13 to 14](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT-SECTION6-CH(13-14).pdf)
+- [Section 7 – Chapters 15 to 16](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT-SECTION7-CH(15-16).pdf)
+- [Section 8 – Chapters 17 to 18](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT-SECTION8-CH(17-18).pdf)
+- [Section 9 – Chapter 19](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT-SECTION9-CH(19).pdf)
+
 
 ##### 🧠 FOOTPRINTS WITHOUT FEET (Supplementary Reader)
 - [A Triumph of Surgery](https://raw.githubusercontent.com/ubsr-official/notebooks/main/NCERT-PDF/ENGLISH/ENGLISH-FOOTPRINTS_WITHOUT_FEET-A_TRIUMPH_OF_SURGERY-1.pdf)
