@@ -38,33 +38,4 @@ We welcome contributions that match our format and maintain the clarity, structu
 
 
 ### Project Structure: (Under Work)
-UBSR-Notebooks
-├───CBSE-PAQs
-│   └───SOCIAL-SCIENCE
-├───NCERT-PDF
-│   ├───ECONOMICS
-│   ├───GEOGRAPHY
-│   ├───HISTORY
-│   └───POLITICAL-SCIENCE
-├───NOTES
-│   ├───ENGLISH
-│   ├───INFORMATION-TECHNOLOGY
-│   ├───MATHS
-│   ├───SCIENCE
-│   │   ├───BIOLOGY
-│   │   ├───CHEMISTRY
-│   │   └───PHYSICS
-│   └───SOCIAL-SCIENCE
-│       ├───ECONOMICS
-│       ├───GEOGRAPHY
-│       ├───HISTORY
-│       └───POLITICAL-SCIENCE
-└───PROMPT-DESIGNS
-    ├───BIOLOGY
-    ├───CHEMISTRY
-    ├───ENGLISH
-    ├───GEOGRAPHY
-    ├───HISTORY
-    ├───INFORMATION-TECHNOLOGY
-    ├───MATHS
-    └───PHYSICS
+<hello>
