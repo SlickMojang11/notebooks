@@ -133,7 +133,7 @@ Chemical reactions are fundamental to many processes in our daily lives, includi
   </tr>
 </table>
 
-The **Law of Conservation of Mass** states that matter cannot be created or destroyed in a chemical reaction. The total mass of reactants must equal the total mass of the products.[1, 2] \
+The **Law of Conservation of Mass** states that matter cannot be created or destroyed in a chemical reaction. The total mass of reactants must equal the total mass of the products.[1, 2] 
 
 1. **Representing Chemical Reactions: Chemical Equations:** 
    A **chemical equation** is a symbolic representation of a chemical reaction using formulas and symbols.`<sup>`2`</sup>` Reactants are written on the left, and products on the right, separated by an arrow (→) indicating the reaction's direction.`<sup>`2`</sup>` 
