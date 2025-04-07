@@ -88,7 +88,7 @@ Conversion notes:
 
 Chemical reactions are fundamental to many processes in our daily lives, including cooking, rusting, burning, digestion, and photosynthesis.[5, 6] 
 
-**Chemical Change vs. Physical Change:** \
+**Chemical Change vs. Physical Change:**
 
 <table>
   <tr>
