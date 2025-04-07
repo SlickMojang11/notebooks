@@ -23,7 +23,7 @@ Conversion notes:
 # Chemical Reactions and Equations: A Comprehensive Study for Class X Chemistry
 
 1. **Introduction to Chemical Reactions:** 
-   A chemical reaction is a fundamental process where substances transform into new substances with different properties through the breaking and forming of chemical bonds, leading to a rearrangement of the atomic structure.``1`</sup>` This results in **chemical changes**, producing one or more novel compounds that are typically permanent and not easily reversible.``3`</sup>` 
+   A chemical reaction is a fundamental process where substances transform into new substances with different properties through the breaking and forming of chemical bonds, leading to a rearrangement of the atomic structure.``1`` This results in **chemical changes**, producing one or more novel compounds that are typically permanent and not easily reversible.``3`` 
    The occurrence of a chemical reaction can be identified through various observable changes:
 
 <table>
@@ -136,7 +136,7 @@ Chemical reactions are fundamental to many processes in our daily lives, includi
 The **Law of Conservation of Mass** states that matter cannot be created or destroyed in a chemical reaction. The total mass of reactants must equal the total mass of the products.[1, 2] 
 
 1. **Representing Chemical Reactions: Chemical Equations:** 
-   A **chemical equation** is a symbolic representation of a chemical reaction using formulas and symbols.``2`</sup>` Reactants are written on the left, and products on the right, separated by an arrow (→) indicating the reaction's direction.``2`</sup>` 
+   A **chemical equation** is a symbolic representation of a chemical reaction using formulas and symbols.``2`` Reactants are written on the left, and products on the right, separated by an arrow (→) indicating the reaction's direction.``2`` 
    **Types of Chemical Equations:**
 
 <table>
@@ -187,7 +187,7 @@ The **Law of Conservation of Mass** states that matter cannot be created or dest
 8. Balanced: 3Fe + 4H₂O → Fe₃O₄ + 4H₂ **Importance of Balancing:** Balanced equations provide quantitative relationships (stoichiometry) between reactants and products, indicating mole ratios, relative masses, and, for gases, relative volumes.[3] 
 9. **A Comprehensive Study of Types of Chemical Reactions:** Chemical reactions are classified based on the nature of reactants and products.
 
-   * **Combination Reactions (Synthesis Reactions):** Two or more substances combine to form a single new substance (A + B → AB).``1`</sup>`
+   * **Combination Reactions (Synthesis Reactions):** Two or more substances combine to form a single new substance (A + B → AB).``1``
 
 <table>
   <tr>
@@ -407,7 +407,7 @@ The **Law of Conservation of Mass** states that matter cannot be created or dest
     *   2Mg(s) + O₂(g) → 2MgO(s) 
 
 1. **The Impact of Oxidation Reactions in Everyday Life:** Oxidation reactions have significant effects in our daily lives.
-   * **Corrosion:** Gradual deterioration of metals due to reaction with the environment (moisture, oxygen, acids).``1`</sup>`
+   * **Corrosion:** Gradual deterioration of metals due to reaction with the environment (moisture, oxygen, acids).``1``
 
 <table>
   <tr>

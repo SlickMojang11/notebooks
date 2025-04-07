@@ -28,71 +28,71 @@ Conversion notes:
 
 
 
-* Recognize that development is not universally defined and has varied meanings for different individuals and groups.1</sup>
-* Understand that people have diverse developmental goals based on their unique needs and aspirations.1</sup>
-* Realize that developmental goals can sometimes conflict.1</sup>
-* Learn that income is a significant but not the only aspect of development.2</sup>
-* Identify non-income factors like equal treatment, freedom, security, respect, health, and education as crucial for development.1</sup>
-* Comprehend the concept of national development and differing perspectives on it.1</sup>
-* Understand methods for comparing development levels using selected indicators.1</sup>
-* Understand the calculation and limitations of using average income (per capita income) for comparison.1</sup>
-* Recognize the importance of indicators like Infant Mortality Rate (IMR), Literacy Rate, and Net Attendance Ratio.1</sup>
-* Grasp the vital role of public facilities in enhancing development and quality of life.1</sup>
-* Understand the Human Development Index (HDI) as a comprehensive measure.1</sup>
-* Instill an understanding of sustainable development and responsible resource utilization.1</sup>
-* Become aware of environmental degradation challenges and the balance between development and conservation.1</sup>
-* Clarify the distinction between economic growth and economic development.2</sup>
+* Recognize that development is not universally defined and has varied meanings for different individuals and groups.1
+* Understand that people have diverse developmental goals based on their unique needs and aspirations.1
+* Realize that developmental goals can sometimes conflict.1
+* Learn that income is a significant but not the only aspect of development.2
+* Identify non-income factors like equal treatment, freedom, security, respect, health, and education as crucial for development.1
+* Comprehend the concept of national development and differing perspectives on it.1
+* Understand methods for comparing development levels using selected indicators.1
+* Understand the calculation and limitations of using average income (per capita income) for comparison.1
+* Recognize the importance of indicators like Infant Mortality Rate (IMR), Literacy Rate, and Net Attendance Ratio.1
+* Grasp the vital role of public facilities in enhancing development and quality of life.1
+* Understand the Human Development Index (HDI) as a comprehensive measure.1
+* Instill an understanding of sustainable development and responsible resource utilization.1
+* Become aware of environmental degradation challenges and the balance between development and conservation.1
+* Clarify the distinction between economic growth and economic development.2
 
 **2. Chapter Summary**
 
 
 
-* Development is a complex concept beyond economic prosperity, including quality of life improvements.4</sup>
-* Individuals have diverse development perspectives, sometimes conflicting.1</sup>
-* Non-material aspects like freedom and security are as valued as income.1</sup>
-* National development is a country's progress, with varying citizen views.1</sup>
-* Per capita income is used to compare countries but has limitations.1</sup>
-* Public facilities are essential for quality of life and holistic development.1</sup>
-* The Human Development Index (HDI) offers a broader assessment.1</sup>
-* Sustainable development emphasizes meeting present needs without harming future generations.1</sup>
+* Development is a complex concept beyond economic prosperity, including quality of life improvements.4
+* Individuals have diverse development perspectives, sometimes conflicting.1
+* Non-material aspects like freedom and security are as valued as income.1
+* National development is a country's progress, with varying citizen views.1
+* Per capita income is used to compare countries but has limitations.1
+* Public facilities are essential for quality of life and holistic development.1
+* The Human Development Index (HDI) offers a broader assessment.1
+* Sustainable development emphasizes meeting present needs without harming future generations.1
 
 **3. Revision Notes**
 
 
 
-* Development signifies progress and betterment.4</sup>
-* Meaning of development varies among individuals based on needs.2</sup>
-* Developmental goals can clash (e.g., dams for industry vs. displacement).1</sup>
-* Income is fundamental for material needs.2</sup>
-* Non-material goals include freedom, security, respect, and equal opportunities.1</sup>
-    * Safe environment empowers women's participation.1</sup>
-* National development enhances living standards (necessities, income).2</sup>
-* Views on national development vary.1</sup>
-* Comparing development involves examining income levels.2</sup>
+* Development signifies progress and betterment.4
+* Meaning of development varies among individuals based on needs.2
+* Developmental goals can clash (e.g., dams for industry vs. displacement).1
+* Income is fundamental for material needs.2
+* Non-material goals include freedom, security, respect, and equal opportunities.1
+    * Safe environment empowers women's participation.1
+* National development enhances living standards (necessities, income).2
+* Views on national development vary.1
+* Comparing development involves examining income levels.2
     * Developed nations: higher average incomes.
     * Developing nations: lower incomes.
-* National income: total value of goods/services in a year.2</sup>
-* Per capita income: national income divided by population (average living standard).2</sup>
-* World Bank uses per capita income for classification.1</sup>
-* Limitations of average income: hides income distribution inequalities.1</sup>
+* National income: total value of goods/services in a year.2
+* Per capita income: national income divided by population (average living standard).2
+* World Bank uses per capita income for classification.1
+* Limitations of average income: hides income distribution inequalities.1
 * Other crucial indicators:
-    * Infant Mortality Rate (IMR): deaths before age 1 per 1,000 live births.3</sup>
-    * Literacy Rate: population (7+) able to read/write.3</sup>
-    * Net Attendance Ratio: children (6-10) attending school (%).3</sup>
-* Punjab vs. Kerala: Punjab has higher income but higher IMR.1</sup>
-* Public facilities: government/collective services (water, electricity, sanitation, healthcare).1</sup>
-    * Essential for quality of life; money can't buy everything.1</sup>
-    * Kerala's low IMR due to public health/education.1</sup>
-* Human Development Index (HDI) by UNDP: holistic development measure.1</sup>
+    * Infant Mortality Rate (IMR): deaths before age 1 per 1,000 live births.3
+    * Literacy Rate: population (7+) able to read/write.3
+    * Net Attendance Ratio: children (6-10) attending school (%).3
+* Punjab vs. Kerala: Punjab has higher income but higher IMR.1
+* Public facilities: government/collective services (water, electricity, sanitation, healthcare).1
+    * Essential for quality of life; money can't buy everything.1
+    * Kerala's low IMR due to public health/education.1
+* Human Development Index (HDI) by UNDP: holistic development measure.1
     * Dimensions:
-        * Long and healthy life: life expectancy at birth.1</sup>
-        * Education level: mean and expected years of schooling.1</sup>
-        * Decent living standard: GNI per capita (PPP adjusted).1</sup>
-    * Well-being of people is critical for progress.4</sup>
-    * Inequality-adjusted HDI (IHDI) considers disparities.3</sup>
-* Sustainability of development: meeting present needs without harming future generations.1</sup>
-    * Groundwater overuse in India: unsustainable.1</sup>
-    * Finite non-renewable resources (oil): long-term challenges.1</sup>
+        * Long and healthy life: life expectancy at birth.1
+        * Education level: mean and expected years of schooling.1
+        * Decent living standard: GNI per capita (PPP adjusted).1
+    * Well-being of people is critical for progress.4
+    * Inequality-adjusted HDI (IHDI) considers disparities.3
+* Sustainability of development: meeting present needs without harming future generations.1
+    * Groundwater overuse in India: unsustainable.1
+    * Finite non-renewable resources (oil): long-term challenges.1
 
 <table>
   <tr>
@@ -159,74 +159,74 @@ Conversion notes:
 
 
 
-* Different people, different goals 1</sup>
-* Income and other criteria 1</sup>
-* National Development 1</sup>
-* How to Compare Different Countries or States? 1</sup>
-    * Average Income 1</sup>
-    * Income and Other Criteria 1</sup>
-* Public facilities 1</sup>
-* Human Development Report 1</sup>
-* Sustainability of development 1</sup>
-    * Groundwater in India 1</sup>
-    * Exhaustion of Natural Resources 1</sup>
+* Different people, different goals 1
+* Income and other criteria 1
+* National Development 1
+* How to Compare Different Countries or States? 1
+    * Average Income 1
+    * Income and Other Criteria 1
+* Public facilities 1
+* Human Development Report 1
+* Sustainability of development 1
+    * Groundwater in India 1
+    * Exhaustion of Natural Resources 1
 
 **5. Point Details with Key Explanations**
 
 
 
-* **Different people, different goals** 1</sup>
-    * **Definition/Explanation:** Development means different things to different people based on their aspirations and circumstances.1</sup>
+* **Different people, different goals** 1
+    * **Definition/Explanation:** Development means different things to different people based on their aspirations and circumstances.1
     * **Real-world or book-based example:**
-        * Landless laborer: more paid work, better wages.1</sup>
-        * Prosperous farmer: higher crop prices, affordable labor.1</sup>
-        * Industrialists (dams): electricity for factories.2</sup>
-        * Tribal communities/farmers (dams): displacement, loss of livelihood.2</sup>
+        * Landless laborer: more paid work, better wages.1
+        * Prosperous farmer: higher crop prices, affordable labor.1
+        * Industrialists (dams): electricity for factories.2
+        * Tribal communities/farmers (dams): displacement, loss of livelihood.2
     * **Key takeaway:** Development goals are subjective and can conflict.
-* **Income and other criteria** 1</sup>
-    * **Definition/Explanation:** While income is important, non-material factors also contribute to quality of life.1</sup>
+* **Income and other criteria** 1
+    * **Definition/Explanation:** While income is important, non-material factors also contribute to quality of life.1
     * **Real-world or book-based example:**
-        * Non-material goals: equal treatment, freedom, security, respect.1</sup>
-        * Job preference: lower pay with security vs. high pay without security.1</sup>
-        * Safe environment empowers women's participation in work/business.1</sup>
+        * Non-material goals: equal treatment, freedom, security, respect.1
+        * Job preference: lower pay with security vs. high pay without security.1
+        * Safe environment empowers women's participation in work/business.1
     * **Key takeaway:** Development includes both material and non-material aspects.
-* **National Development** 1</sup>
-    * **Definition/Explanation:** Development at the country level, enhancing living standards.2</sup>
-    * **Real-world or book-based example:** Different segments of the population may have varying ideas about national progress.1</sup>
+* **National Development** 1
+    * **Definition/Explanation:** Development at the country level, enhancing living standards.2
+    * **Real-world or book-based example:** Different segments of the population may have varying ideas about national progress.1
     * **Key takeaway:** National development visions can differ among citizens.
-* **How to Compare Different Countries or States?** 1</sup>
-    * **Definition/Explanation:** Using indicators to compare development levels, with income as a primary criterion.1</sup>
-    * **Sub-topic: Average Income** 1</sup>
-        * **Definition/Explanation:** Per capita income (total income / total population) used for comparison.1</sup>
-        * **Real-world or book-based example:** World Bank classifies countries based on per capita income (high, low).1</sup> India is a low middle-income country.1</sup>
+* **How to Compare Different Countries or States?** 1
+    * **Definition/Explanation:** Using indicators to compare development levels, with income as a primary criterion.1
+    * **Sub-topic: Average Income** 1
+        * **Definition/Explanation:** Per capita income (total income / total population) used for comparison.1
+        * **Real-world or book-based example:** World Bank classifies countries based on per capita income (high, low).1 India is a low middle-income country.1
         * **Key takeaway:** Average income is a common but limited comparison tool.
-    * **Sub-topic: Income and Other Criteria** 1</sup>
-        * **Definition/Explanation:** Average income doesn't show income distribution or social factors.1</sup>
+    * **Sub-topic: Income and Other Criteria** 1
+        * **Definition/Explanation:** Average income doesn't show income distribution or social factors.1
         * **Real-world or book-based example:**
-            * Two countries with same average income but different distribution (Table 1.2 in NCERT 1</sup>).
-            * Comparison of Haryana, Kerala, Bihar based on income, IMR, literacy, attendance (Tables 1.3 & 1.4 in NCERT 1</sup>). Haryana has higher income but lower in other indicators than Kerala.1</sup>
+            * Two countries with same average income but different distribution (Table 1.2 in NCERT 1).
+            * Comparison of Haryana, Kerala, Bihar based on income, IMR, literacy, attendance (Tables 1.3 & 1.4 in NCERT 1). Haryana has higher income but lower in other indicators than Kerala.1
         * **Key takeaway:** Other indicators like health and education are crucial.
-* **Public facilities** 1</sup>
-    * **Definition/Explanation:** Essential services provided by government/collectively (water, sanitation, healthcare, education).1</sup>
+* **Public facilities** 1
+    * **Definition/Explanation:** Essential services provided by government/collectively (water, sanitation, healthcare, education).1
     * **Real-world or book-based example:**
-        * Money can't buy everything (pollution-free environment, disease protection).1</sup>
-        * Kerala's low IMR due to good public health/education.1</sup>
-        * Importance of government schools.1</sup>
-        * Tamil Nadu's better PDS leading to better health.1</sup>
-    * **✅ Keypoint:** Non-income factors are critical for development.1</sup>
-* **Human Development Report** 1</sup>
-    * **Definition/Explanation:** Published by UNDP, compares countries based on education, health, and income.1</sup> Focuses on citizens' well-being.1</sup>
-    * **Real-world or book-based example:** Table 1.6 (NCERT 1</sup>) compares India and neighbors on GNI per capita, life expectancy, schooling, and HDI rank. Sri Lanka, Nepal, Bangladesh have better HDI ranks than income suggests.1</sup> India's HDI rank was 134 in 2022.16</sup>
+        * Money can't buy everything (pollution-free environment, disease protection).1
+        * Kerala's low IMR due to good public health/education.1
+        * Importance of government schools.1
+        * Tamil Nadu's better PDS leading to better health.1
+    * **✅ Keypoint:** Non-income factors are critical for development.1
+* **Human Development Report** 1
+    * **Definition/Explanation:** Published by UNDP, compares countries based on education, health, and income.1 Focuses on citizens' well-being.1
+    * **Real-world or book-based example:** Table 1.6 (NCERT 1) compares India and neighbors on GNI per capita, life expectancy, schooling, and HDI rank. Sri Lanka, Nepal, Bangladesh have better HDI ranks than income suggests.1 India's HDI rank was 134 in 2022.16
     * **Key takeaway:** HDI provides a broader view of development beyond income.
-* **Sustainability of development** 1</sup>
-    * **Definition/Explanation:** Development that doesn't harm future generations' ability to meet their needs.1</sup>
-    * **Sub-topic: Groundwater in India** 1</sup>
-        * **Definition/Explanation:** Overuse of renewable groundwater leading to depletion.1</sup>
-        * **Real-world or book-based example:** 300 districts in India reported significant groundwater decline.1</sup>
+* **Sustainability of development** 1
+    * **Definition/Explanation:** Development that doesn't harm future generations' ability to meet their needs.1
+    * **Sub-topic: Groundwater in India** 1
+        * **Definition/Explanation:** Overuse of renewable groundwater leading to depletion.1
+        * **Real-world or book-based example:** 300 districts in India reported significant groundwater decline.1
         * **Key takeaway:** Renewable resources can be used unsustainably.
-    * **Sub-topic: Exhaustion of Natural Resources** 1</sup>
-        * **Definition/Explanation:** Depletion of non-renewable resources like crude oil.1</sup>
-        * **Real-world or book-based example:** Table 1.7 (NCERT 1</sup>) shows crude oil reserves and estimated lifespan. Impacts countries relying on imports.1</sup>
+    * **Sub-topic: Exhaustion of Natural Resources** 1
+        * **Definition/Explanation:** Depletion of non-renewable resources like crude oil.1
+        * **Real-world or book-based example:** Table 1.7 (NCERT 1) shows crude oil reserves and estimated lifespan. Impacts countries relying on imports.1
         * **Key takeaway:** Reliance on finite resources poses long-term challenges.
 
 **6. Data Tables and Comparison Charts**
@@ -414,40 +414,40 @@ Conversion notes:
 
 
 
-* Kerala's high HDI despite lower per capita income than Punjab shows that development isn't just about income.1</sup>
-    * Kerala prioritized social sectors (education, healthcare).1</sup>
-    * Good public facilities ensure access to essential services.1</sup>
+* Kerala's high HDI despite lower per capita income than Punjab shows that development isn't just about income.1
+    * Kerala prioritized social sectors (education, healthcare).1
+    * Good public facilities ensure access to essential services.1
     * Highlights the importance of social indicators in development.
-* Well-developed public infrastructure has far-reaching effects.6</sup>
-    * Facilitates economic activities (trade, communication, energy).6</sup>
+* Well-developed public infrastructure has far-reaching effects.6
+    * Facilitates economic activities (trade, communication, energy).6
     * Enhances productivity and economic growth.
-    * Improves public health (clean water, sanitation).4</sup>
-    * Leads to a more skilled workforce (education infrastructure).4</sup>
+    * Improves public health (clean water, sanitation).4
+    * Leads to a more skilled workforce (education infrastructure).4
     * Creates a conducive environment for economic and social well-being.
-* Education and health are pivotal for sustainable development.4</sup>
-    * Educated people are more aware of environmental issues and adopt sustainable practices.4</sup>
-    * Healthy population is more productive and can participate in sustainable development efforts.4</sup>
+* Education and health are pivotal for sustainable development.4
+    * Educated people are more aware of environmental issues and adopt sustainable practices.4
+    * Healthy population is more productive and can participate in sustainable development efforts.4
     * Investments in education and health build a resilient society for future challenges.
 
 **8. Glossary of Economics Terms**
 
 
 
-* **GDP (Gross Domestic Product):** Total value of finished goods/services produced within a country in a period.8</sup>
-* **PCI (Per Capita Income):** Average income per person in an area in a year.2</sup>
-* **HDI (Human Development Index):** Composite statistic ranking countries by human development levels.3</sup>
-* **IMR (Infant Mortality Rate):** Deaths of infants under one year per 1,000 live births.3</sup>
-* **Literacy Rate:** Percentage of people (7+) who can read and write.3</sup>
-* **Net Attendance Ratio:** Percentage of children (6-10) attending school.3</sup>
-* **GNI (Gross National Income):** Total output claimed by residents, including income from abroad.3</sup>
-* **PPP (Purchasing Power Parity):** Measures prices in different countries to compare purchasing power.3</sup>
-* **Sustainable Development:** Development meeting present needs without harming future generations.2</sup>
-* **Renewable Resources:** Resources replenished naturally over time (e.g., groundwater, solar).3</sup>
-* **Non-renewable Resources:** Resources with a fixed stock, not easily replenished (e.g., fossil fuels).3</sup>
-* **Public Facilities:** Services provided by government/collectively (healthcare, education, sanitation).3</sup>
-* **National Income:** Total value of goods/services produced in a country in a year, plus net income from abroad.2</sup>
-* **Economic Growth:** Increase in the market value of goods/services produced over time.2</sup>
-* **Economic Development:** Broader than growth, includes improvements in living standards and well-being.2</sup>
+* **GDP (Gross Domestic Product):** Total value of finished goods/services produced within a country in a period.8
+* **PCI (Per Capita Income):** Average income per person in an area in a year.2
+* **HDI (Human Development Index):** Composite statistic ranking countries by human development levels.3
+* **IMR (Infant Mortality Rate):** Deaths of infants under one year per 1,000 live births.3
+* **Literacy Rate:** Percentage of people (7+) who can read and write.3
+* **Net Attendance Ratio:** Percentage of children (6-10) attending school.3
+* **GNI (Gross National Income):** Total output claimed by residents, including income from abroad.3
+* **PPP (Purchasing Power Parity):** Measures prices in different countries to compare purchasing power.3
+* **Sustainable Development:** Development meeting present needs without harming future generations.2
+* **Renewable Resources:** Resources replenished naturally over time (e.g., groundwater, solar).3
+* **Non-renewable Resources:** Resources with a fixed stock, not easily replenished (e.g., fossil fuels).3
+* **Public Facilities:** Services provided by government/collectively (healthcare, education, sanitation).3
+* **National Income:** Total value of goods/services produced in a country in a year, plus net income from abroad.2
+* **Economic Growth:** Increase in the market value of goods/services produced over time.2
+* **Economic Development:** Broader than growth, includes improvements in living standards and well-being.2
 
 **9. Quick Review System (1-Page)**
 
@@ -560,15 +560,15 @@ Conversion notes:
 
 
 
-* Development is multifaceted, beyond just economic indicators.1</sup>
-* Income is important, but non-material goals are equally significant.1</sup>
-* National development has varying interpretations.1</sup>
-* Per capita income has limitations as a comparison tool.1</sup>
-* Other indicators like literacy and health are crucial.1</sup>
-* HDI is a broader measure considering health, education, and income.1</sup>
-* Kerala's example shows the impact of social infrastructure.1</sup>
-* Sustainable development is vital for future generations.1</sup>
-* Development requires a balanced approach considering diverse needs and long-term well-being.1</sup>
+* Development is multifaceted, beyond just economic indicators.1
+* Income is important, but non-material goals are equally significant.1
+* National development has varying interpretations.1
+* Per capita income has limitations as a comparison tool.1
+* Other indicators like literacy and health are crucial.1
+* HDI is a broader measure considering health, education, and income.1
+* Kerala's example shows the impact of social infrastructure.1
+* Sustainable development is vital for future generations.1
+* Development requires a balanced approach considering diverse needs and long-term well-being.1
 
 
 #### Works cited
