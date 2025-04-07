@@ -186,21 +186,21 @@ User Time Limit: Full Mastery
         * Example: Fe(s) + CuSO4(aq) → FeSO4(aq) + Cu(s)
         * Activity series determines which element will displace another.
     * Sub-topic 2.3.2: Activity Series
-        * Table: Activity Series of Metals \
-| Metal | Relative Activity | \
-|--------------|-------------------| \
-| Potassium | Most Reactive | \
-| Sodium | | \
-| Calcium | | \
-| Magnesium | | \
-| Aluminum | | \
-| Zinc | | \
-| Iron | | \
-| Lead | | \
-| Hydrogen | | \
-| Copper | | \
-| Mercury | | \
-| Silver | | \
+        * Table: Activity Series of Metals 
+| Metal | Relative Activity | 
+|--------------|-------------------| 
+| Potassium | Most Reactive | 
+| Sodium | | 
+| Calcium | | 
+| Magnesium | | 
+| Aluminum | | 
+| Zinc | | 
+| Iron | | 
+| Lead | | 
+| Hydrogen | | 
+| Copper | | 
+| Mercury | | 
+| Silver | | 
 | Gold | Least Reactive |
 * Sub-topic 2.4: Double Displacement Reactions
     * Points:
@@ -384,7 +384,7 @@ User Time Limit: Full Mastery
 3. (Khan Academy) Identify the oxidizing agent in the following reaction: MnO2(s) + 4HCl(aq) → MnCl2(aq) + 2H2O(l) + Cl2(g)
     * MnO2
 4. (Toppr) What type of reaction is involved in the corrosion of metals?
-    * Oxidation \
+    * Oxidation 
 Topic 3: Effects of Oxidation Reactions in Everyday Life
 5. (BYJU’S) Which gas is used to flush out food packets to prevent rancidity?
     * Nitrogen
@@ -424,11 +424,11 @@ Topic 3: Effects of Oxidation Reactions in Everyday Life
 * **Very HOTS**
     1. (Analyze) A shiny brown coloured element X on heating in air becomes black in colour. Identify the element X and the black coloured compound formed.
 * **Competency Based**
-    1. (Case-Based) A student added dilute HCl to a test tube containing zinc granules. He observed the evolution of a gas which burnt with a pop sound. \
-a) Identify the gas evolved. \
-b) Write the balanced chemical equation for the reaction. \
-c) What type of reaction is this? \
-d) What will happen if dilute H2SO4 is used instead of dilute HCl? \
+    1. (Case-Based) A student added dilute HCl to a test tube containing zinc granules. He observed the evolution of a gas which burnt with a pop sound. 
+a) Identify the gas evolved. 
+b) Write the balanced chemical equation for the reaction. 
+c) What type of reaction is this? 
+d) What will happen if dilute H2SO4 is used instead of dilute HCl? 
 Topic 3: Effects of Oxidation Reactions in Everyday Life
 * **LOTS:**
     1. (Remember) Define corrosion.
@@ -442,12 +442,12 @@ Topic 3: Effects of Oxidation Reactions in Everyday Life
 * **Very HOTS**
     1. (Analyze) Why are food manufacturers reluctant to use antioxidants like BHA and BHT?
 * **Competency Based Questions**
-    1. (Case Based) A student observed that a copper vessel left in the open for a few days developed a green coating. \
-a) What is the green coating made of? \
-b) Write the chemical equation for the reaction. \
-c) How can this green coating be prevented? \
-d) What type of reaction is this? \
-e) Is it a redox reaction? \
+    1. (Case Based) A student observed that a copper vessel left in the open for a few days developed a green coating. 
+a) What is the green coating made of? 
+b) Write the chemical equation for the reaction. 
+c) How can this green coating be prevented? 
+d) What type of reaction is this? 
+e) Is it a redox reaction? 
 8. 🚀 AI-Powered HOTS + Competency-Based Questions
 * **Topic 1: Chemical Reactions**
     * 🔥 **Very HOTS:** A scientist conducts an experiment where she mixes two colorless solutions in a closed container. She observes a significant increase in temperature and the formation of a solid precipitate. Later, she determines that the mass of the container and its contents has slightly increased. Analyze this scenario, and explain the observation. What type of reaction is likely to have occurred? What could account for the mass change, and how does this relate to the Law of Conservation of Mass?
@@ -487,11 +487,11 @@ e) Is it a redox reaction? \
 * Mind Map:
     * Central Idea: Chemical Reactions
     * Branches: Definition, Characteristics, Examples, Balancing, Importance
-* Quick Facts Table: \
-| Feature | Chemical Change | Physical Change | \
-|-----------------|--------------------------------------|---------------------------------------| \
-| Composition | Altered | Not altered | \
-| New substances | Formed | Not formed | \
+* Quick Facts Table: 
+| Feature | Chemical Change | Physical Change | 
+|-----------------|--------------------------------------|---------------------------------------| 
+| Composition | Altered | Not altered | 
+| New substances | Formed | Not formed | 
 | Reversibility | Generally irreversible | Generally reversible |
 * True/False:
     * A balanced equation has the same number of atoms of each element on both sides. (True)
@@ -513,13 +513,13 @@ e) Is it a redox reaction? \
 * Mind Map:
     * Central Idea: Types of Chemical Reactions
     * Branches: Combination, Decomposition, Displacement, Double Displacement, Redox
-* Quick Facts Table: \
-| Reaction Type | General Form | Example | \
-|----------------------|----------------------|----------------------------------------| \
-| Combination | A + B → C | 2H2 + O2 → 2H2O | \
-| Decomposition | AB → A + B | CaCO3 → CaO + CO2 | \
-| Displacement | A + BC → AC + B | Fe + CuSO4 → FeSO4 + Cu | \
-| Double Displacement | AB + CD → AD + CB | AgNO3 + NaCl → AgCl + NaNO3 | \
+* Quick Facts Table: 
+| Reaction Type | General Form | Example | 
+|----------------------|----------------------|----------------------------------------| 
+| Combination | A + B → C | 2H2 + O2 → 2H2O | 
+| Decomposition | AB → A + B | CaCO3 → CaO + CO2 | 
+| Displacement | A + BC → AC + B | Fe + CuSO4 → FeSO4 + Cu | 
+| Double Displacement | AB + CD → AD + CB | AgNO3 + NaCl → AgCl + NaNO3 | 
 | Redox | Oxidation + Reduction| CuO + H2 → Cu + H2O |
 * True/False:
     * Oxidation involves the gain of electrons. (False)
@@ -541,10 +541,10 @@ e) Is it a redox reaction? \
 * Mind Map:
     * Central Idea: Effects of Oxidation Reactions
     * Branches: Corrosion, Rancidity, Prevention
-* Quick Facts Table: \
-| Phenomenon | Cause | Prevention Methods | \
-|---------------|---------------------------------|------------------------------------------| \
-| Corrosion | Oxidation of metals | Painting, galvanization, alloying | \
+* Quick Facts Table: 
+| Phenomenon | Cause | Prevention Methods | 
+|---------------|---------------------------------|------------------------------------------| 
+| Corrosion | Oxidation of metals | Painting, galvanization, alloying | 
 | Rancidity | Oxidation of fats and oils | Antioxidants, airtight containers |
 * True/False:
     * Rancidity can be prevented by storing food in the refrigerator. (True)

@@ -124,7 +124,7 @@ Conversion notes:
             * Other than current fallow: Land left uncultivated for the past one to five agricultural years.
         * Net sown area: This refers to the area sown with crops at least once in an agricultural year.<sup>1</sup>
         * Gross cropped area: This is the total area sown with crops, calculated by adding the net sown area to the area sown more than once in an agricultural year.<sup>3</sup>
-    * Land Use Pattern in India: The way land is utilized in India is determined by a combination of physical factors such as topography, climate, and soil types, as well as human factors like population density, technological capabilities, and cultural traditions.<sup>2</sup> Agriculture accounts for over 50% of the land use in India.<sup>14</sup> Forests cover approximately 22% of the land, which is less than the 33% recommended for maintaining ecological balance.<sup>14</sup> \
+    * Land Use Pattern in India: The way land is utilized in India is determined by a combination of physical factors such as topography, climate, and soil types, as well as human factors like population density, technological capabilities, and cultural traditions.<sup>2</sup> Agriculture accounts for over 50% of the land use in India.<sup>14</sup> Forests cover approximately 22% of the land, which is less than the 33% recommended for maintaining ecological balance.<sup>14</sup> 
 **Table: Land Use Pattern in India (2014-15)** (Data sourced from NCERT Textbook - for illustrative purposes, actual data should be used)
 
 <table>
@@ -192,12 +192,12 @@ Conversion notes:
 </table>
 
 
-    This table illustrates the distribution of land across various uses in India. It highlights the significant proportion of land dedicated to agriculture and the relatively lower percentage under forest cover. Analyzing such data helps understand the pressures on different land categories and the need for sustainable land management. \
- \
-*   Land Degradation: This refers to the deterioration or decline in the quality of land, making it less suitable for agriculture or other uses.[4] \
-    *   Causes: Several factors contribute to land degradation, including deforestation (removal of forest cover), overgrazing by livestock, mining and quarrying activities, over-irrigation leading to waterlogging and salinity, and the discharge of industrial effluents and wastes onto the land.[2, 4, 7, 11, 12] In states like Jharkhand, Chhattisgarh, Madhya Pradesh, and Odisha, deforestation due to mining has caused severe land degradation.[11] Overgrazing is a major reason for land degradation in Gujarat, Rajasthan, Madhya Pradesh, and Maharashtra.[11] In states like Punjab, Haryana, and western Uttar Pradesh, over-irrigation is responsible for waterlogging and an increase in soil salinity, leading to land degradation.[11] \
-*   Conservation Measures: Various steps can be taken to conserve land and prevent further degradation. These include afforestation (planting more trees), proper management of grazing lands to prevent overgrazing, planting shelter belts of trees to reduce wind erosion, controlling overgrazing, stabilizing sand dunes in desert areas, regulating mining activities, and ensuring the proper treatment and disposal of industrial effluents and wastes.[1, 2, 3, 7, 12, 14] In hilly areas, techniques like contour ploughing, terracing, and strip cropping can help to reduce soil erosion.[3, 12, 14] \
-*   Insight: Land degradation is a multifaceted problem with both human-induced and natural causes, and its impact varies geographically across India. Recognizing the specific factors contributing to land degradation in different regions is essential for developing and implementing targeted conservation strategies. For example, the primary causes of degradation might differ significantly between states with extensive mining activities and those with intensive agricultural practices. This regional variation underscores the need for a nuanced and localized approach to land resource management. \
+    This table illustrates the distribution of land across various uses in India. It highlights the significant proportion of land dedicated to agriculture and the relatively lower percentage under forest cover. Analyzing such data helps understand the pressures on different land categories and the need for sustainable land management. 
+ 
+*   Land Degradation: This refers to the deterioration or decline in the quality of land, making it less suitable for agriculture or other uses.[4] 
+    *   Causes: Several factors contribute to land degradation, including deforestation (removal of forest cover), overgrazing by livestock, mining and quarrying activities, over-irrigation leading to waterlogging and salinity, and the discharge of industrial effluents and wastes onto the land.[2, 4, 7, 11, 12] In states like Jharkhand, Chhattisgarh, Madhya Pradesh, and Odisha, deforestation due to mining has caused severe land degradation.[11] Overgrazing is a major reason for land degradation in Gujarat, Rajasthan, Madhya Pradesh, and Maharashtra.[11] In states like Punjab, Haryana, and western Uttar Pradesh, over-irrigation is responsible for waterlogging and an increase in soil salinity, leading to land degradation.[11] 
+*   Conservation Measures: Various steps can be taken to conserve land and prevent further degradation. These include afforestation (planting more trees), proper management of grazing lands to prevent overgrazing, planting shelter belts of trees to reduce wind erosion, controlling overgrazing, stabilizing sand dunes in desert areas, regulating mining activities, and ensuring the proper treatment and disposal of industrial effluents and wastes.[1, 2, 3, 7, 12, 14] In hilly areas, techniques like contour ploughing, terracing, and strip cropping can help to reduce soil erosion.[3, 12, 14] 
+*   Insight: Land degradation is a multifaceted problem with both human-induced and natural causes, and its impact varies geographically across India. Recognizing the specific factors contributing to land degradation in different regions is essential for developing and implementing targeted conservation strategies. For example, the primary causes of degradation might differ significantly between states with extensive mining activities and those with intensive agricultural practices. This regional variation underscores the need for a nuanced and localized approach to land resource management. 
 
 
 
@@ -342,7 +342,7 @@ Conversion notes:
 </table>
 
 
-This table provides a structured overview of the different categories of resources based on their origin, exhaustibility, ownership, and development status. It helps in understanding the distinctions between various types of resources and their characteristics. \
+This table provides a structured overview of the different categories of resources based on their origin, exhaustibility, ownership, and development status. It helps in understanding the distinctions between various types of resources and their characteristics. 
 
 
 
@@ -378,7 +378,7 @@ This table provides a structured overview of the different categories of resourc
 </table>
 
 
-This table illustrates the three key stages involved in resource planning in India: first, identifying and assessing the available resources; second, developing a strategic framework with technological, skill-based, and institutional components; and third, aligning these resource development plans with the broader objectives of national progress. \
+This table illustrates the three key stages involved in resource planning in India: first, identifying and assessing the available resources; second, developing a strategic framework with technological, skill-based, and institutional components; and third, aligning these resource development plans with the broader objectives of national progress. 
 
 
 
@@ -438,7 +438,7 @@ This table illustrates the three key stages involved in resource planning in Ind
 </table>
 
 
-This table visually represents the distribution of land across different categories of use in India during the year 2014-15. It clearly shows that the largest proportion of land is dedicated to agriculture (Net sown area), followed by forests. This visual representation aids in understanding the relative importance of various land use types and the pressures on land resources. \
+This table visually represents the distribution of land across different categories of use in India during the year 2014-15. It clearly shows that the largest proportion of land is dedicated to agriculture (Net sown area), followed by forests. This visual representation aids in understanding the relative importance of various land use types and the pressures on land resources. 
 
 
 
@@ -506,7 +506,7 @@ This table visually represents the distribution of land across different categor
 </table>
 
 
-This table outlines the primary causes of land degradation, their subsequent effects on the environment and productivity, and potential solutions to mitigate these issues. It illustrates the interconnectedness of human activities, environmental consequences, and the measures that can be taken to achieve land conservation. \
+This table outlines the primary causes of land degradation, their subsequent effects on the environment and productivity, and potential solutions to mitigate these issues. It illustrates the interconnectedness of human activities, environmental consequences, and the measures that can be taken to achieve land conservation. 
 
 
 
@@ -588,7 +588,7 @@ This table outlines the primary causes of land degradation, their subsequent eff
 </table>
 
 
-This table provides a comparative overview of the major soil types found in India, highlighting their key characteristics, the regions where they are predominantly found, and the types of crops that are best suited for cultivation in these soils. This structured information is helpful for understanding the agricultural geography of India. \
+This table provides a comparative overview of the major soil types found in India, highlighting their key characteristics, the regions where they are predominantly found, and the types of crops that are best suited for cultivation in these soils. This structured information is helpful for understanding the agricultural geography of India. 
 
 
 **5. Quick Review Cards (After Every Major Topic)**
@@ -738,7 +738,7 @@ This table provides a comparative overview of the major soil types found in Indi
 </table>
 
 
-*   **Table Comparing Land Conservation Methods:** \
+*   **Table Comparing Land Conservation Methods:** 
 
 
 

@@ -175,16 +175,16 @@ The **Law of Conservation of Mass** states that matter cannot be created or dest
   </tr>
 </table>
 
-**Balancing Chemical Equations:** This process ensures that the number of atoms of each element is the same on both sides of the equation, upholding the Law of Conservation of Mass.[1, 2, 3] **Steps for Balancing (Hit and Trial Method):**[2, 8, 9, 10, 11, 12] \
+**Balancing Chemical Equations:** This process ensures that the number of atoms of each element is the same on both sides of the equation, upholding the Law of Conservation of Mass.[1, 2, 3] **Steps for Balancing (Hit and Trial Method):**[2, 8, 9, 10, 11, 12] 
 
-1. Write the unbalanced (skeletal) equation.[2, 3] \
-2. Count the number of atoms of each element on both sides.[2, 10] \
-3. Adjust the **coefficients** (numbers before formulas) to balance the number of atoms of each element. Start with the most complex molecule or the element that appears least frequently.[2, 3, 7, 8, 9, 11] \
-4. Ensure coefficients are in the simplest whole number ratio.[2, 13, 14] \
-5. Recheck the number of atoms of each element on both sides to confirm balance.[2, 8, 9, 10, 11] **Example:** Balancing Fe + H₂O → Fe₃O₄ + H₂ \
-6. Unbalanced: Fe + H₂O → Fe₃O₄ + H₂ \
-7. Reactants: Fe=1, H=2, O=1; Products: Fe=3, H=2, O=4 \
-8. Balanced: 3Fe + 4H₂O → Fe₃O₄ + 4H₂ **Importance of Balancing:** Balanced equations provide quantitative relationships (stoichiometry) between reactants and products, indicating mole ratios, relative masses, and, for gases, relative volumes.[3] \
+1. Write the unbalanced (skeletal) equation.[2, 3] 
+2. Count the number of atoms of each element on both sides.[2, 10] 
+3. Adjust the **coefficients** (numbers before formulas) to balance the number of atoms of each element. Start with the most complex molecule or the element that appears least frequently.[2, 3, 7, 8, 9, 11] 
+4. Ensure coefficients are in the simplest whole number ratio.[2, 13, 14] 
+5. Recheck the number of atoms of each element on both sides to confirm balance.[2, 8, 9, 10, 11] **Example:** Balancing Fe + H₂O → Fe₃O₄ + H₂ 
+6. Unbalanced: Fe + H₂O → Fe₃O₄ + H₂ 
+7. Reactants: Fe=1, H=2, O=1; Products: Fe=3, H=2, O=4 
+8. Balanced: 3Fe + 4H₂O → Fe₃O₄ + 4H₂ **Importance of Balancing:** Balanced equations provide quantitative relationships (stoichiometry) between reactants and products, indicating mole ratios, relative masses, and, for gases, relative volumes.[3] 
 9. **A Comprehensive Study of Types of Chemical Reactions:** Chemical reactions are classified based on the nature of reactants and products.
 
    * **Combination Reactions (Synthesis Reactions):** Two or more substances combine to form a single new substance (A + B → AB).`<sup>`1`</sup>`
@@ -225,7 +225,7 @@ The **Law of Conservation of Mass** states that matter cannot be created or dest
   </tr>
 </table>
 
-* **Decomposition Reactions:** A single compound breaks down into two or more simpler substances (AB → A + B).[1, 2, 3, 4, 7, 19, 20, 21, 22, 23, 24] Require energy input (heat, light, electricity). \
+* **Decomposition Reactions:** A single compound breaks down into two or more simpler substances (AB → A + B).[1, 2, 3, 4, 7, 19, 20, 21, 22, 23, 24] Require energy input (heat, light, electricity). 
 
 <table>
   <tr>
@@ -262,7 +262,7 @@ The **Law of Conservation of Mass** states that matter cannot be created or dest
   </tr>
 </table>
 
-* **Displacement Reactions (Single Displacement/Substitution Reactions):** A more reactive element takes the place of a less reactive element in a compound (A + BC → AC + B).[1, 2, 3, 4, 7, 17, 25, 26, 27, 28, 29, 30] Reactivity determined by the **activity series of metals**.[1, 3, 4, 29, 5, 31, 32, 6, 33, 34, 35] \
+* **Displacement Reactions (Single Displacement/Substitution Reactions):** A more reactive element takes the place of a less reactive element in a compound (A + BC → AC + B).[1, 2, 3, 4, 7, 17, 25, 26, 27, 28, 29, 30] Reactivity determined by the **activity series of metals**.[1, 3, 4, 29, 5, 31, 32, 6, 33, 34, 35] 
 
 <table>
   <tr>
@@ -355,22 +355,22 @@ The **Law of Conservation of Mass** states that matter cannot be created or dest
     *   Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s) (Zinc displaces copper)
     *   Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s) (Iron displaces copper)
     *   Mg(s) + H₂SO₄(aq) → MgSO₄(aq) + H₂(g) (Magnesium displaces hydrogen)
-    *   Cl₂(g) + 2KI(aq) → 2KCl(aq) + I₂(s) (Chlorine displaces iodine) \
+    *   Cl₂(g) + 2KI(aq) → 2KCl(aq) + I₂(s) (Chlorine displaces iodine) 
 
-* **Double Displacement Reactions (Metathesis Reactions):** Positive and negative ions of two ionic compounds exchange places in an aqueous solution to form two new compounds (AB + CD → AD + CB).[1, 2, 3, 7, 17, 36, 37, 38, 39, 40] Often result in a precipitate, a gas, or water. \
-  * **Precipitation Reactions:** Two soluble ionic compounds react to form one or more insoluble compounds (precipitate).[1, 2, 3, 7, 17, 41] \
-    * Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq) (Barium sulfate precipitate) \
-    * 2KI(aq) + Pb(NO₃)₂(aq) → PbI₂(s) + 2KNO₃(aq) (Lead(II) iodide precipitate) \
+* **Double Displacement Reactions (Metathesis Reactions):** Positive and negative ions of two ionic compounds exchange places in an aqueous solution to form two new compounds (AB + CD → AD + CB).[1, 2, 3, 7, 17, 36, 37, 38, 39, 40] Often result in a precipitate, a gas, or water. 
+  * **Precipitation Reactions:** Two soluble ionic compounds react to form one or more insoluble compounds (precipitate).[1, 2, 3, 7, 17, 41] 
+    * Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq) (Barium sulfate precipitate) 
+    * 2KI(aq) + Pb(NO₃)₂(aq) → PbI₂(s) + 2KNO₃(aq) (Lead(II) iodide precipitate) 
     * AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq) (Silver chloride precipitate) 
-      \
-  * **Neutralization Reactions:** Reaction between an acid and a base to form salt and water.[1, 2, 3, 7, 17, 26, 28, 37, 38, 39, 40, 42, 43, 44, 45] \
-    * NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l) \
-    * 2HNO₃(aq) + Ba(OH)₂(aq) → Ba(NO₃)₂(aq) + 2H₂O(l) \
+      
+  * **Neutralization Reactions:** Reaction between an acid and a base to form salt and water.[1, 2, 3, 7, 17, 26, 28, 37, 38, 39, 40, 42, 43, 44, 45] 
+    * NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l) 
+    * 2HNO₃(aq) + Ba(OH)₂(aq) → Ba(NO₃)₂(aq) + 2H₂O(l) 
     * H₃PO₄(aq) + 3NaOH(aq) → Na₃PO₄(aq) + 3H₂O(l) 
 
       **Acid-Base Indicators:** Substances that change color depending on the pH of the solution, used to monitor neutralization reactions.[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] Common indicators include litmus paper, phenolphthalein, and methyl orange.[89, 90, 92, 97, 98, 87, 88, 89, 90, 91, 92, 99, 100, 101, 102, 88, 90, 91, 103, 104, 105, 106, 107, 108, 109] 
-      \
-* **Redox Reactions (Oxidation and Reduction Reactions):** Involve the transfer of electrons between reacting species.[1, 2, 3, 4, 56, 7, 17, 57, 58, 26, 27, 28, 29, 30, 59, 60, 37, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78] \
+      
+* **Redox Reactions (Oxidation and Reduction Reactions):** Involve the transfer of electrons between reacting species.[1, 2, 3, 4, 56, 7, 17, 57, 58, 26, 27, 28, 29, 30, 59, 60, 37, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78] 
 
 <table>
   <tr>
@@ -404,7 +404,7 @@ The **Law of Conservation of Mass** states that matter cannot be created or dest
     **Examples of Redox Reactions:** 
     *   2Zn(s) + O₂(g) → 2ZnO(s)
     *   CuO(s) + H₂(g) → Cu(s) + H₂O(l)
-    *   2Mg(s) + O₂(g) → 2MgO(s) \
+    *   2Mg(s) + O₂(g) → 2MgO(s) 
 
 1. **The Impact of Oxidation Reactions in Everyday Life:** Oxidation reactions have significant effects in our daily lives.
    * **Corrosion:** Gradual deterioration of metals due to reaction with the environment (moisture, oxygen, acids).`<sup>`1`</sup>`
@@ -442,14 +442,14 @@ The **Law of Conservation of Mass** states that matter cannot be created or dest
     *   Galvanization (coating with zinc, sacrificial protection)
     *   Electroplating (coating with another non-corrosive metal)
     *   Alloying (mixing metals to enhance resistance)
-    *   Applying anti-rust solutions [7] \
+    *   Applying anti-rust solutions [7] 
 
-* **Rancidity:** Oxidation of fats and oils in food, leading to unpleasant smell and taste.[1, 2, 3, 7, 97, 99, 100, 101, 102, 103, 104, 105, 106, 107] **Prevention of Rancidity:** \
-  * Adding antioxidants (e.g., BHA, BHT) \
-  * Storing food in airtight containers (reduces oxygen exposure) [7, 4, 100, 108, 109] \
-  * Refrigeration (slows down oxidation) \
-  * Replacing air with nitrogen gas (inert atmosphere) [7, 4, 101] \
-  * Storing food away from light [110] \
+* **Rancidity:** Oxidation of fats and oils in food, leading to unpleasant smell and taste.[1, 2, 3, 7, 97, 99, 100, 101, 102, 103, 104, 105, 106, 107] **Prevention of Rancidity:** 
+  * Adding antioxidants (e.g., BHA, BHT) 
+  * Storing food in airtight containers (reduces oxygen exposure) [7, 4, 100, 108, 109] 
+  * Refrigeration (slows down oxidation) 
+  * Replacing air with nitrogen gas (inert atmosphere) [7, 4, 101] 
+  * Storing food away from light [110] 
 
 1. **Conclusion:** 
    Chemical reactions and equations are fundamental to understanding chemical transformations. Balancing equations is crucial for adhering to the Law of Conservation of Mass. Different types of reactions (combination, decomposition, displacement, double displacement, and redox) exhibit unique characteristics and play vital roles in various processes. Oxidation reactions have significant impacts on our daily lives through corrosion and rancidity, and understanding these processes allows for effective prevention strategies.
