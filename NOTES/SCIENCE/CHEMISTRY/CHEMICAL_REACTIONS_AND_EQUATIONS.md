@@ -20,15 +20,11 @@ Conversion notes:
 * Tables are currently converted to HTML tables.
 ----->
 
-
-
 # Chemical Reactions and Equations: A Comprehensive Study for Class X Chemistry
 
-
-
-1. **Introduction to Chemical Reactions:** \
-A chemical reaction is a fundamental process where substances transform into new substances with different properties through the breaking and forming of chemical bonds, leading to a rearrangement of the atomic structure.<sup>1</sup> This results in **chemical changes**, producing one or more novel compounds that are typically permanent and not easily reversible.<sup>3</sup> \
-The occurrence of a chemical reaction can be identified through various observable changes:
+1. **Introduction to Chemical Reactions:** 
+   A chemical reaction is a fundamental process where substances transform into new substances with different properties through the breaking and forming of chemical bonds, leading to a rearrangement of the atomic structure.`<sup>`1`</sup>` This results in **chemical changes**, producing one or more novel compounds that are typically permanent and not easily reversible.`<sup>`3`</sup>` 
+   The occurrence of a chemical reaction can be identified through various observable changes:
 
 <table>
   <tr>
@@ -90,12 +86,9 @@ The occurrence of a chemical reaction can be identified through various observab
   </tr>
 </table>
 
+Chemical reactions are fundamental to many processes in our daily lives, including cooking, rusting, burning, digestion, and photosynthesis.[5, 6] 
 
-Chemical reactions are fundamental to many processes in our daily lives, including cooking, rusting, burning, digestion, and photosynthesis.[5, 6] \
- \
 **Chemical Change vs. Physical Change:** \
-
-
 
 <table>
   <tr>
@@ -140,15 +133,11 @@ Chemical reactions are fundamental to many processes in our daily lives, includi
   </tr>
 </table>
 
-
 The **Law of Conservation of Mass** states that matter cannot be created or destroyed in a chemical reaction. The total mass of reactants must equal the total mass of the products.[1, 2] \
 
-
-
-
-1. **Representing Chemical Reactions: Chemical Equations:** \
-A **chemical equation** is a symbolic representation of a chemical reaction using formulas and symbols.<sup>2</sup> Reactants are written on the left, and products on the right, separated by an arrow (→) indicating the reaction's direction.<sup>2</sup> \
-**Types of Chemical Equations:**
+1. **Representing Chemical Reactions: Chemical Equations:** 
+   A **chemical equation** is a symbolic representation of a chemical reaction using formulas and symbols.`<sup>`2`</sup>` Reactants are written on the left, and products on the right, separated by an arrow (→) indicating the reaction's direction.`<sup>`2`</sup>` 
+   **Types of Chemical Equations:**
 
 <table>
   <tr>
@@ -186,29 +175,19 @@ A **chemical equation** is a symbolic representation of a chemical reaction usin
   </tr>
 </table>
 
+**Balancing Chemical Equations:** This process ensures that the number of atoms of each element is the same on both sides of the equation, upholding the Law of Conservation of Mass.[1, 2, 3] **Steps for Balancing (Hit and Trial Method):**[2, 8, 9, 10, 11, 12] \
 
-**Balancing Chemical Equations:** This process ensures that the number of atoms of each element is the same on both sides of the equation, upholding the Law of Conservation of Mass.[1, 2, 3] \
- \
-**Steps for Balancing (Hit and Trial Method):**[2, 8, 9, 10, 11, 12] \
-1.  Write the unbalanced (skeletal) equation.[2, 3] \
-2.  Count the number of atoms of each element on both sides.[2, 10] \
-3.  Adjust the **coefficients** (numbers before formulas) to balance the number of atoms of each element. Start with the most complex molecule or the element that appears least frequently.[2, 3, 7, 8, 9, 11] \
-4.  Ensure coefficients are in the simplest whole number ratio.[2, 13, 14] \
-5.  Recheck the number of atoms of each element on both sides to confirm balance.[2, 8, 9, 10, 11] \
- \
-**Example:** Balancing Fe + H₂O → Fe₃O₄ + H₂ \
-1.  Unbalanced: Fe + H₂O → Fe₃O₄ + H₂ \
-2.  Reactants: Fe=1, H=2, O=1; Products: Fe=3, H=2, O=4 \
-3.  Balanced: 3Fe + 4H₂O → Fe₃O₄ + 4H₂ \
- \
-**Importance of Balancing:** Balanced equations provide quantitative relationships (stoichiometry) between reactants and products, indicating mole ratios, relative masses, and, for gases, relative volumes.[3] \
+1. Write the unbalanced (skeletal) equation.[2, 3] \
+2. Count the number of atoms of each element on both sides.[2, 10] \
+3. Adjust the **coefficients** (numbers before formulas) to balance the number of atoms of each element. Start with the most complex molecule or the element that appears least frequently.[2, 3, 7, 8, 9, 11] \
+4. Ensure coefficients are in the simplest whole number ratio.[2, 13, 14] \
+5. Recheck the number of atoms of each element on both sides to confirm balance.[2, 8, 9, 10, 11] **Example:** Balancing Fe + H₂O → Fe₃O₄ + H₂ \
+6. Unbalanced: Fe + H₂O → Fe₃O₄ + H₂ \
+7. Reactants: Fe=1, H=2, O=1; Products: Fe=3, H=2, O=4 \
+8. Balanced: 3Fe + 4H₂O → Fe₃O₄ + 4H₂ **Importance of Balancing:** Balanced equations provide quantitative relationships (stoichiometry) between reactants and products, indicating mole ratios, relative masses, and, for gases, relative volumes.[3] \
+9. **A Comprehensive Study of Types of Chemical Reactions:** Chemical reactions are classified based on the nature of reactants and products.
 
-
-
-
-1. **A Comprehensive Study of Types of Chemical Reactions:** \
-Chemical reactions are classified based on the nature of reactants and products.
-    * **Combination Reactions (Synthesis Reactions):** Two or more substances combine to form a single new substance (A + B → AB).<sup>1</sup>
+   * **Combination Reactions (Synthesis Reactions):** Two or more substances combine to form a single new substance (A + B → AB).`<sup>`1`</sup>`
 
 <table>
   <tr>
@@ -246,10 +225,7 @@ Chemical reactions are classified based on the nature of reactants and products.
   </tr>
 </table>
 
-
-*   **Decomposition Reactions:** A single compound breaks down into two or more simpler substances (AB → A + B).[1, 2, 3, 4, 7, 19, 20, 21, 22, 23, 24] Require energy input (heat, light, electricity). \
-
-
+* **Decomposition Reactions:** A single compound breaks down into two or more simpler substances (AB → A + B).[1, 2, 3, 4, 7, 19, 20, 21, 22, 23, 24] Require energy input (heat, light, electricity). \
 
 <table>
   <tr>
@@ -281,15 +257,12 @@ Chemical reactions are classified based on the nature of reactants and products.
    </td>
    <td>Breakdown due to exposure to light (photolysis or photodecomposition).
    </td>
-   <td>2AgCl(s) + hν → 2Ag(s) + Cl₂(g) (Silver chloride in sunlight) &lt;br> 2AgBr(s) + hν → 2Ag(s) + Br₂(l) (Silver bromide in sunlight)
+   <td>2AgCl(s) + hν → 2Ag(s) + Cl₂(g) (Silver chloride in sunlight) <br> 2AgBr(s) + hν → 2Ag(s) + Br₂(l) (Silver bromide in sunlight)
    </td>
   </tr>
 </table>
 
-
-*   **Displacement Reactions (Single Displacement/Substitution Reactions):** A more reactive element takes the place of a less reactive element in a compound (A + BC → AC + B).[1, 2, 3, 4, 7, 17, 25, 26, 27, 28, 29, 30] Reactivity determined by the **activity series of metals**.[1, 3, 4, 29, 5, 31, 32, 6, 33, 34, 35] \
-
-
+* **Displacement Reactions (Single Displacement/Substitution Reactions):** A more reactive element takes the place of a less reactive element in a compound (A + BC → AC + B).[1, 2, 3, 4, 7, 17, 25, 26, 27, 28, 29, 30] Reactivity determined by the **activity series of metals**.[1, 3, 4, 29, 5, 31, 32, 6, 33, 34, 35] \
 
 <table>
   <tr>
@@ -378,30 +351,26 @@ Chemical reactions are classified based on the nature of reactants and products.
   </tr>
 </table>
 
-
-    **Examples:** \
-    *   Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s) (Zinc displaces copper) \
-    *   Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s) (Iron displaces copper) \
-    *   Mg(s) + H₂SO₄(aq) → MgSO₄(aq) + H₂(g) (Magnesium displaces hydrogen) \
+    **Examples:** 
+    *   Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s) (Zinc displaces copper)
+    *   Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s) (Iron displaces copper)
+    *   Mg(s) + H₂SO₄(aq) → MgSO₄(aq) + H₂(g) (Magnesium displaces hydrogen)
     *   Cl₂(g) + 2KI(aq) → 2KCl(aq) + I₂(s) (Chlorine displaces iodine) \
- \
-*   **Double Displacement Reactions (Metathesis Reactions):** Positive and negative ions of two ionic compounds exchange places in an aqueous solution to form two new compounds (AB + CD → AD + CB).[1, 2, 3, 7, 17, 36, 37, 38, 39, 40] Often result in a precipitate, a gas, or water. \
- \
-    *   **Precipitation Reactions:** Two soluble ionic compounds react to form one or more insoluble compounds (precipitate).[1, 2, 3, 7, 17, 41] \
-        *   Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq) (Barium sulfate precipitate) \
-        *   2KI(aq) + Pb(NO₃)₂(aq) → PbI₂(s) + 2KNO₃(aq) (Lead(II) iodide precipitate) \
-        *   AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq) (Silver chloride precipitate) \
- \
-    *   **Neutralization Reactions:** Reaction between an acid and a base to form salt and water.[1, 2, 3, 7, 17, 26, 28, 37, 38, 39, 40, 42, 43, 44, 45] \
-        *   NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l) \
-        *   2HNO₃(aq) + Ba(OH)₂(aq) → Ba(NO₃)₂(aq) + 2H₂O(l) \
-        *   H₃PO₄(aq) + 3NaOH(aq) → Na₃PO₄(aq) + 3H₂O(l) \
- \
-        **Acid-Base Indicators:** Substances that change color depending on the pH of the solution, used to monitor neutralization reactions.[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] Common indicators include litmus paper, phenolphthalein, and methyl orange.[89, 90, 92, 97, 98, 87, 88, 89, 90, 91, 92, 99, 100, 101, 102, 88, 90, 91, 103, 104, 105, 106, 107, 108, 109] \
- \
-*   **Redox Reactions (Oxidation and Reduction Reactions):** Involve the transfer of electrons between reacting species.[1, 2, 3, 4, 56, 7, 17, 57, 58, 26, 27, 28, 29, 30, 59, 60, 37, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78] \
 
+* **Double Displacement Reactions (Metathesis Reactions):** Positive and negative ions of two ionic compounds exchange places in an aqueous solution to form two new compounds (AB + CD → AD + CB).[1, 2, 3, 7, 17, 36, 37, 38, 39, 40] Often result in a precipitate, a gas, or water. \
+  * **Precipitation Reactions:** Two soluble ionic compounds react to form one or more insoluble compounds (precipitate).[1, 2, 3, 7, 17, 41] \
+    * Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq) (Barium sulfate precipitate) \
+    * 2KI(aq) + Pb(NO₃)₂(aq) → PbI₂(s) + 2KNO₃(aq) (Lead(II) iodide precipitate) \
+    * AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq) (Silver chloride precipitate) 
+      \
+  * **Neutralization Reactions:** Reaction between an acid and a base to form salt and water.[1, 2, 3, 7, 17, 26, 28, 37, 38, 39, 40, 42, 43, 44, 45] \
+    * NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l) \
+    * 2HNO₃(aq) + Ba(OH)₂(aq) → Ba(NO₃)₂(aq) + 2H₂O(l) \
+    * H₃PO₄(aq) + 3NaOH(aq) → Na₃PO₄(aq) + 3H₂O(l) 
 
+      **Acid-Base Indicators:** Substances that change color depending on the pH of the solution, used to monitor neutralization reactions.[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] Common indicators include litmus paper, phenolphthalein, and methyl orange.[89, 90, 92, 97, 98, 87, 88, 89, 90, 91, 92, 99, 100, 101, 102, 88, 90, 91, 103, 104, 105, 106, 107, 108, 109] 
+      \
+* **Redox Reactions (Oxidation and Reduction Reactions):** Involve the transfer of electrons between reacting species.[1, 2, 3, 4, 56, 7, 17, 57, 58, 26, 27, 28, 29, 30, 59, 60, 37, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78] \
 
 <table>
   <tr>
@@ -417,7 +386,7 @@ Chemical reactions are classified based on the nature of reactants and products.
    </td>
    <td>Loss of electrons, gain of oxygen, loss of hydrogen, increase in oxidation state.
    </td>
-   <td>2Mg(s) + O₂(g) → 2MgO(s) (Mg gains oxygen) &lt;br> H₂S + Br₂ → 2HBr + S (Sulfur loses hydrogen) &lt;br> Zn → Zn²⁺ + 2e⁻ (Zinc loses electrons)
+   <td>2Mg(s) + O₂(g) → 2MgO(s) (Mg gains oxygen) <br> H₂S + Br₂ → 2HBr + S (Sulfur loses hydrogen) <br> Zn → Zn²⁺ + 2e⁻ (Zinc loses electrons)
    </td>
   </tr>
   <tr>
@@ -425,26 +394,20 @@ Chemical reactions are classified based on the nature of reactants and products.
    </td>
    <td>Gain of electrons, loss of oxygen, gain of hydrogen, decrease in oxidation state.
    </td>
-   <td>CuO(s) + H₂(g) → Cu(s) + H₂O(l) (Copper loses oxygen) &lt;br> N₂ + 3H₂ → 2NH₃ (Nitrogen gains hydrogen) &lt;br> Cu²⁺ + 2e⁻ → Cu (Copper gains electrons)
+   <td>CuO(s) + H₂(g) → Cu(s) + H₂O(l) (Copper loses oxygen) <br> N₂ + 3H₂ → 2NH₃ (Nitrogen gains hydrogen) <br> Cu²⁺ + 2e⁻ → Cu (Copper gains electrons)
    </td>
   </tr>
 </table>
 
-
-    **Oxidizing Agent:** Substance that causes oxidation (accepts electrons, gets reduced).[1, 2, 3, 4, 56, 7, 17, 57, 58, 26, 27, 28, 29, 30, 59, 60, 37, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85] \
-    **Reducing Agent:** Substance that causes reduction (donates electrons, gets oxidized).[1, 2, 3, 4, 56, 7, 17, 57, 58, 26, 27, 28, 29, 30, 59, 60, 37, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 84, 86, 87, 88, 89, 90, 91, 92] \
- \
-    **Examples of Redox Reactions:** \
-    *   2Zn(s) + O₂(g) → 2ZnO(s) \
-    *   CuO(s) + H₂(g) → Cu(s) + H₂O(l) \
+    **Oxidizing Agent:** Substance that causes oxidation (accepts electrons, gets reduced).[1, 2, 3, 4, 56, 7, 17, 57, 58, 26, 27, 28, 29, 30, 59, 60, 37, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85] 
+    **Reducing Agent:** Substance that causes reduction (donates electrons, gets oxidized).[1, 2, 3, 4, 56, 7, 17, 57, 58, 26, 27, 28, 29, 30, 59, 60, 37, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 84, 86, 87, 88, 89, 90, 91, 92] 
+    **Examples of Redox Reactions:** 
+    *   2Zn(s) + O₂(g) → 2ZnO(s)
+    *   CuO(s) + H₂(g) → Cu(s) + H₂O(l)
     *   2Mg(s) + O₂(g) → 2MgO(s) \
 
-
-
-
-1. **The Impact of Oxidation Reactions in Everyday Life:** \
-Oxidation reactions have significant effects in our daily lives.
-    * **Corrosion:** Gradual deterioration of metals due to reaction with the environment (moisture, oxygen, acids).<sup>1</sup>
+1. **The Impact of Oxidation Reactions in Everyday Life:** Oxidation reactions have significant effects in our daily lives.
+   * **Corrosion:** Gradual deterioration of metals due to reaction with the environment (moisture, oxygen, acids).`<sup>`1`</sup>`
 
 <table>
   <tr>
@@ -474,33 +437,24 @@ Oxidation reactions have significant effects in our daily lives.
   </tr>
 </table>
 
-
-    **Prevention of Corrosion:** \
-    *   Painting, oiling, greasing (barrier protection) \
-    *   Galvanization (coating with zinc, sacrificial protection) \
-    *   Electroplating (coating with another non-corrosive metal) \
-    *   Alloying (mixing metals to enhance resistance) \
+    **Prevention of Corrosion:** 
+    *   Painting, oiling, greasing (barrier protection)
+    *   Galvanization (coating with zinc, sacrificial protection)
+    *   Electroplating (coating with another non-corrosive metal)
+    *   Alloying (mixing metals to enhance resistance)
     *   Applying anti-rust solutions [7] \
- \
-*   **Rancidity:** Oxidation of fats and oils in food, leading to unpleasant smell and taste.[1, 2, 3, 7, 97, 99, 100, 101, 102, 103, 104, 105, 106, 107] \
- \
-    **Prevention of Rancidity:** \
-    *   Adding antioxidants (e.g., BHA, BHT) \
-    *   Storing food in airtight containers (reduces oxygen exposure) [7, 4, 100, 108, 109] \
-    *   Refrigeration (slows down oxidation) \
-    *   Replacing air with nitrogen gas (inert atmosphere) [7, 4, 101] \
-    *   Storing food away from light [110] \
 
+* **Rancidity:** Oxidation of fats and oils in food, leading to unpleasant smell and taste.[1, 2, 3, 7, 97, 99, 100, 101, 102, 103, 104, 105, 106, 107] **Prevention of Rancidity:** \
+  * Adding antioxidants (e.g., BHA, BHT) \
+  * Storing food in airtight containers (reduces oxygen exposure) [7, 4, 100, 108, 109] \
+  * Refrigeration (slows down oxidation) \
+  * Replacing air with nitrogen gas (inert atmosphere) [7, 4, 101] \
+  * Storing food away from light [110] \
 
-
-
-1. **Conclusion:** \
-Chemical reactions and equations are fundamental to understanding chemical transformations. Balancing equations is crucial for adhering to the Law of Conservation of Mass. Different types of reactions (combination, decomposition, displacement, double displacement, and redox) exhibit unique characteristics and play vital roles in various processes. Oxidation reactions have significant impacts on our daily lives through corrosion and rancidity, and understanding these processes allows for effective prevention strategies.
-
+1. **Conclusion:** 
+   Chemical reactions and equations are fundamental to understanding chemical transformations. Balancing equations is crucial for adhering to the Law of Conservation of Mass. Different types of reactions (combination, decomposition, displacement, double displacement, and redox) exhibit unique characteristics and play vital roles in various processes. Oxidation reactions have significant impacts on our daily lives through corrosion and rancidity, and understanding these processes allows for effective prevention strategies.
 
 #### Works cited
-
-
 
 1. NCERT Solutions for Class 10 Science Chapter 1 Chemical ..., accessed April 7, 2025, [https://www.vedantu.com/ncert-solutions/ncert-solutions-class-10-science-chapter-1-chemical-reactions-and-equations](https://www.vedantu.com/ncert-solutions/ncert-solutions-class-10-science-chapter-1-chemical-reactions-and-equations)
 2. CBSE Notes Class 10 Science Chapter 1 - Chemical Reactions and Equation, accessed April 7, 2025, [https://allen.in/cbse-notes/class-10-science-notes-chapter-1-chemical-reactions-and-equation](https://allen.in/cbse-notes/class-10-science-notes-chapter-1-chemical-reactions-and-equation)
@@ -525,7 +479,7 @@ Chemical reactions and equations are fundamental to understanding chemical trans
 21. Decomposition Reaction - Definition, Types, Examples, Uses - BYJU'S, accessed April 7, 2025, [https://byjus.com/chemistry/decomposition-reaction/](https://byjus.com/chemistry/decomposition-reaction/)
 22. Decomposition Reactions - Definition, Properties, Equations, Types and Examples | CK-12 Foundation, accessed April 7, 2025, [https://flexbooks.ck12.org/cbook/cbse-chemistry-class-10/section/1.5/primary/lesson/decomposition-reactions/](https://flexbooks.ck12.org/cbook/cbse-chemistry-class-10/section/1.5/primary/lesson/decomposition-reactions/)
 23. Decomposition reaction: Definition, Classification, Uses and Importance - chemistry | AESL, accessed April 7, 2025, [https://www.aakash.ac.in/important-concepts/chemistry/decomposition-reaction](https://www.aakash.ac.in/important-concepts/chemistry/decomposition-reaction)
-24. What is a decomposition reaction? - OLabs, accessed April 7, 2025, [https://www.amrita.olabs.edu.in/?sub=73&brch=3&sim=80&cnt=1](https://www.amrita.olabs.edu.in/?sub=73&brch=3&sim=80&cnt=1)
+24. What is a decomposition reaction? - OLabs, accessed April 7, 2025, [https://www.amrita.olabs.edu.in/?sub=73&amp;brch=3&amp;sim=80&amp;cnt=1](https://www.amrita.olabs.edu.in/?sub=73&brch=3&sim=80&cnt=1)
 25. www.vedantu.com, accessed April 7, 2025, [https://www.vedantu.com/chemistry/displacement-reaction#:~:text=Displacement%20Reaction%20Definition,by%20another%20ion%20of%20reactant.](https://www.vedantu.com/chemistry/displacement-reaction#:~:text=Displacement%20Reaction%20Definition,by%20another%20ion%20of%20reactant.)
 26. Displacement Reactions - Definition, Types (Single & Double), Examples - BYJU'S, accessed April 7, 2025, [https://byjus.com/chemistry/displacement-reactions/](https://byjus.com/chemistry/displacement-reactions/)
 27. Displacement Reactions (Single-Displacement) - Definition, Properties, Equations, Types and Examples | CK-12 Foundation, accessed April 7, 2025, [https://flexbooks.ck12.org/cbook/cbse-chemistry-class-10/section/1.6/primary/lesson/single-displacement-reactions/](https://flexbooks.ck12.org/cbook/cbse-chemistry-class-10/section/1.6/primary/lesson/single-displacement-reactions/)
@@ -539,7 +493,7 @@ Chemical reactions and equations are fundamental to understanding chemical trans
 35. Activity Series - Symbols, Equations and Formulas | CK-12 Foundation, accessed April 7, 2025, [https://flexbooks.ck12.org/cbook/cbse-chemistry-class-10/section/3.3/related/lesson/activity-series-chem/](https://flexbooks.ck12.org/cbook/cbse-chemistry-class-10/section/3.3/related/lesson/activity-series-chem/)
 36. byjus.com, accessed April 7, 2025, [https://byjus.com/chemistry/displacement-reactions/#:~:text=Double%20displacement%20reactions%20occur%20when,exchange%20of%20ions%20takes%20place.](https://byjus.com/chemistry/displacement-reactions/#:~:text=Double%20displacement%20reactions%20occur%20when,exchange%20of%20ions%20takes%20place.)
 37. Displacement Reactions (Double-Displacement) - Definition, Properties, Equations, Types and Examples | CK-12 Foundation, accessed April 7, 2025, [https://flexbooks.ck12.org/cbook/cbse-chemistry-class-10/section/1.7/primary/lesson/double-displacement-reactions/](https://flexbooks.ck12.org/cbook/cbse-chemistry-class-10/section/1.7/primary/lesson/double-displacement-reactions/)
-38. Double Displacement Reaction - OLabs, accessed April 7, 2025, [https://www.olabs.edu.in/?sub=73&brch=3&sim=82&cnt=1](https://www.olabs.edu.in/?sub=73&brch=3&sim=82&cnt=1)
+38. Double Displacement Reaction - OLabs, accessed April 7, 2025, [https://www.olabs.edu.in/?sub=73&amp;brch=3&amp;sim=82&amp;cnt=1](https://www.olabs.edu.in/?sub=73&brch=3&sim=82&cnt=1)
 39. Double replacement reactions (double displacement) (article) | Khan Academy, accessed April 7, 2025, [https://www.khanacademy.org/science/in-in-class-10-chemistry-india/x87dd2847d57ee419:in-in-chemical-reactions-and-equations/x87dd2847d57ee419:in-in-displacement-and-double-displacement-reactions/a/double-replacement-reactions](https://www.khanacademy.org/science/in-in-class-10-chemistry-india/x87dd2847d57ee419:in-in-chemical-reactions-and-equations/x87dd2847d57ee419:in-in-displacement-and-double-displacement-reactions/a/double-replacement-reactions)
 40. Double Displacement Reaction Definition and Examples - ThoughtCo, accessed April 7, 2025, [https://www.thoughtco.com/definition-of-double-displacement-reaction-605045](https://www.thoughtco.com/definition-of-double-displacement-reaction-605045)
 41. 4.2 Double Displacement Reactions | General Chemistry - YouTube, accessed April 7, 2025, [https://www.youtube.com/watch?v=_XpsM24ybBw](https://www.youtube.com/watch?v=_XpsM24ybBw)
@@ -594,7 +548,7 @@ Chemical reactions and equations are fundamental to understanding chemical trans
 90. Reducing agent - Wikipedia, accessed April 7, 2025, [https://en.wikipedia.org/wiki/Reducing_agent](https://en.wikipedia.org/wiki/Reducing_agent)
 91. Reducing Agent - Definition, Features, Significance & Examples - Chemistry - Aakash, accessed April 7, 2025, [https://www.aakash.ac.in/important-concepts/chemistry/reducing-agents](https://www.aakash.ac.in/important-concepts/chemistry/reducing-agents)
 92. accessed January 1, 1970, [https://www.thoughtco.com/definition-of-reducing-agent-604611](https://www.thoughtco.com/definition-of-reducing-agent-604611)
-93. www.teachoo.com, accessed April 7, 2025, [https://www.teachoo.com/15838/3503/Corrosion/category/Concepts/#:~:text=The%20gradual%20destruction%20of%20pure,Iron%20is%20called%20'Rusting'.](https://www.teachoo.com/15838/3503/Corrosion/category/Concepts/#:~:text=The%20gradual%20destruction%20of%20pure,Iron%20is%20called%20'Rusting'.)
+93. www.teachoo.com, accessed April 7, 2025, [https://www.teachoo.com/15838/3503/Corrosion/category/Concepts/#:~:text=The%20gradual%20destruction%20of%20pure,Iron%20is%20called%20&#39;Rusting&#39;.](https://www.teachoo.com/15838/3503/Corrosion/category/Concepts/#:~:text=The%20gradual%20destruction%20of%20pure,Iron%20is%20called%20'Rusting'.)
 94. Corrosion - Definition, Types & Prevention with Videos & Examples, accessed April 7, 2025, [https://byjus.com/chemistry/corrosion/](https://byjus.com/chemistry/corrosion/)
 95. Corrosion - Wikipedia, accessed April 7, 2025, [https://en.wikipedia.org/wiki/Corrosion](https://en.wikipedia.org/wiki/Corrosion)
 96. Class 10, Science, Chapter-3, Lecture-4, Corrosion (Notes) - Axisa Academy, accessed April 7, 2025, [https://axisa.in/class-10-science-chapter-3-lecture-4-corrosion-notes](https://axisa.in/class-10-science-chapter-3-lecture-4-corrosion-notes)
