@@ -19,19 +19,15 @@ jobs:
       with:
         python-version: '3.11'
 
-    - name: Install dependencies
-      run: pip install --upgrade pip
-
-    - name: Generate files.json
+    - name: Generate files.json using fmtree.py
       run: python fmtree.py
 
     - name: Commit and push files.json
       run: |
-        git config --local user.name "github-actions"
-        git config --local user.email "github-actions@github.com"
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
         git add files.json
         git commit -m "Auto-update files.json" || echo "No changes"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git push
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
