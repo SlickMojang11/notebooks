@@ -51,101 +51,49 @@
 
 ### Food Grains
 
-#### Rice
-- **Position**: 2nd largest producer globally (after China); staple food for majority
-- **Climate**: >25°C, high humidity, >100cm rainfall or irrigation
-- **Growing Areas**: Plains, coastal areas, deltaic regions
-- **Cultivation Types**: Three crops in some regions (Aus, Aman, Boro)
-- **Major Producers**: Assam, WB, Odisha, AP, Telangana, TN, Kerala, Maharashtra, UP, Bihar, Punjab, Haryana
+## Major Crops
 
-#### Wheat
-- **Position**: 2nd most important cereal crop
-- **Requirements**: Cool growing season, 50-75cm rainfall, bright sunshine for ripening
-- **Growing Zones**: Ganga-Satluj plains, Deccan black soil region
-- **Major Producers**: Punjab, Haryana, UP, MP, Bihar, Rajasthan
+### Food Grains
 
-#### Millets
-- **Significance**: High nutritional value; drought-resistant
-- **Types**:
-  - **Jowar**: 3rd most important food crop; rain-fed; Maharashtra, Karnataka, AP, MP
-  - **Bajra**: Thrives in sandy/shallow black soils; Rajasthan, UP, Maharashtra, Gujarat, Haryana
-  - **Ragi**: Rich in iron, calcium, micro-nutrients; Karnataka, TN, Himalayan states, Jharkhand
-
-#### Maize
-- **Uses**: Both food and fodder
-- **Requirements**: 21-27°C, old alluvial soil; modern inputs increasing yields
-- **Season**: Kharif (general), Rabi in Bihar
-- **Major Producers**: Karnataka, MP, UP, Bihar, AP, Telangana
-
-#### Pulses
-- **Position**: India leads production/consumption globally
-- **Significance**: Major protein source for vegetarian diet
-- **Types**: Tur (arhar), urad, moong, masur, peas, gram
-- **Characteristics**: Nitrogen-fixing (except arhar); drought-resistant; rotational crops
-- **Major Producers**: MP, Rajasthan, Maharashtra, UP, Karnataka
+| Crop | Climate Requirements | Characteristics | Major Producers |
+|------|----------------------|-----------------|-----------------|
+| **Rice** | • >25°C temperature<br>• High humidity<br>• >100cm rainfall<br>• Can grow with irrigation in low rainfall areas | • 2nd largest producer (after China)<br>• Kharif crop<br>• Plains, coastal, delta regions<br>• Three crops in some regions: Aus, Aman, Boro<br>• Staple food of majority in India | • Assam<br>• WB<br>• Odisha<br>• AP, Telangana<br>• TN<br>• Kerala<br>• Maharashtra<br>• UP<br>• Bihar<br>• Punjab<br>• Haryana |
+| **Wheat** | • Cool growing season<br>• 50-75cm rainfall<br>• Bright sunshine during ripening | • 2nd most important cereal<br>• Rabi crop<br>• Two major zones: Ganga-Satluj plains, Deccan black soil | • Punjab<br>• Haryana<br>• UP<br>• MP<br>• Bihar<br>• Rajasthan |
+| **Millets** | • Jowar: Rain-fed<br>• Bajra: Thrives in sandy/shallow black soils<br>• Ragi: Grows in dry regions | • High nutritional value<br>• Jowar: 3rd most important food crop<br>• Ragi: Rich in iron, calcium, micro nutrients | • Jowar: Maharashtra, Karnataka, AP, MP<br>• Bajra: Rajasthan, UP, Maharashtra, Gujarat<br>• Ragi: Karnataka, TN, Himalayan states, Jharkhand |
+| **Maize** | • 21-27°C temperature<br>• Grows well in old alluvial soil | • Food and fodder<br>• Kharif crop generally<br>• Rabi in Bihar<br>• Modern inputs increasing yields | • Karnataka<br>• MP<br>• UP<br>• Bihar<br>• AP<br>• Telangana |
+| **Pulses** | • Need less moisture<br>• Survive in dry conditions | • India leads production/consumption globally<br>• Major protein source<br>• Types: tur, urad, moong, masur, peas, gram<br>• Nitrogen-fixing (except arhar)<br>• Drought-resistant<br>• Rotational crops | • MP<br>• Rajasthan<br>• Maharashtra<br>• UP<br>• Karnataka |
 
 ### Commercial Crops
 
-#### Sugarcane
-- **Position**: 2nd largest producer after Brazil
-- **Climate**: Tropical/subtropical; 21-27°C; 75-100cm rainfall
-- **Characteristics**: Labor-intensive; takes nearly a year to grow
-- **Products**: Sugar, jaggery, khandsari, molasses
-- **Major Producers**: UP, Maharashtra, Karnataka, TN, AP, Telangana, Bihar, Punjab, Haryana
-
-#### Oil Seeds
-- **Area**: 12% of cropped area in India
-- **Position**: 2nd in groundnut production (after China)
-- **Types & Seasons**:
-  - Groundnut: Kharif crop (50% of oilseed production); Gujarat, Rajasthan, TN
-  - Mustard/Linseed: Rabi crops; Northern states
-  - Sesamum: Kharif (north), Rabi (south)
-  - Castor: Both seasons
-  - Others: Coconut, soyabean, cotton seeds, sunflower
-- **Uses**: Cooking, soap manufacturing, cosmetics
-
-#### Plantation Crops
-
-| Crop | Requirements | Characteristics | Major Producers |
-|------|--------------|-----------------|-----------------|
-| **Tea** | • Warm, moist, frost-free climate<br>• Deep fertile soil rich in humus<br>• Frequent showers | • Labor-intensive<br>• On-site processing<br>• 2nd largest producer after China | Assam, WB (Darjeeling, Jalpaiguri), TN, Kerala, HP, Uttarakhand, Meghalaya, AP, Tripura |
-| **Coffee** | • Subtropical highlands | • Arabica variety (Yemen origin)<br>• High global demand | Karnataka, Kerala, TN |
-| **Rubber** | • >200cm rainfall<br>• >25°C temperature | • Industrial raw material<br>• Adapted from equatorial to subtropical | Kerala, TN, Karnataka, A&N Islands, Meghalaya (Garo Hills) |
+| Crop | Climate & Soil Requirements | Characteristics | Major Producers |
+|------|----------------------|-----------------|-----------------|
+| **Sugarcane** | • Tropical/subtropical<br>• 21-27°C temperature<br>• 75-100cm rainfall<br>• Various soils<br>• Irrigation in dry regions | • 2nd largest producer after Brazil<br>• Labor-intensive<br>• Takes almost a year to grow<br>• Products: sugar, jaggery, khandsari, molasses | • UP<br>• Maharashtra<br>• Karnataka<br>• TN<br>• AP, Telangana<br>• Bihar<br>• Punjab<br>• Haryana |
+| **Oil Seeds** | • Groundnut: Kharif crop<br>• Linseed/Mustard: Rabi crops<br>• Sesamum: Kharif (north), rabi (south)<br>• Castor: Both seasons | • 12% of cropped area<br>• 2nd in groundnut production (after China)<br>• Types: groundnut, mustard, coconut, sesamum, soyabean, castor, cotton seeds, linseed, sunflower<br>• Uses: cooking, soap, cosmetics<br>• Groundnut: 50% of oilseed production | • Groundnut: Gujarat, Rajasthan, TN<br>• Mustard: Northern states<br>• Coconut: Coastal regions<br>• Soyabean: MP, Maharashtra |
+| **Tea** | • Warm, moist, frost-free climate<br>• Deep fertile humus-rich soil<br>• Frequent showers evenly distributed | • British-introduced plantation<br>• Labor-intensive with on-site processing<br>• 2nd largest producer after China<br>• Important export crop | • Assam<br>• WB (Darjeeling, Jalpaiguri)<br>• TN<br>• Kerala<br>• HP<br>• UK<br>• Meghalaya<br>• AP<br>• Tripura |
+| **Coffee** | • Subtropical highlands<br>• Nilgiri region | • Superior Arabica variety (Yemen origin)<br>• Good quality, high demand | • Karnataka<br>• Kerala<br>• TN |
+| **Rubber** | • Moist climate (>200cm rain)<br>• >25°C temperature<br>• Equatorial crop adapted to tropical/subtropical | • Industrial raw material<br>• Used in many manufactured products | • Kerala<br>• TN<br>• Karnataka<br>• A&N Islands<br>• Meghalaya (Garo Hills) |
 
 ### Fiber Crops
 
-#### Cotton
-- **Origin**: India believed to be original home
-- **Position**: 2nd largest producer after China
-- **Requirements**: High temperature, light rainfall/irrigation, 210 frost-free days, bright sunshine
-- **Soil**: Black cotton soil of Deccan plateau
-- **Cultivation**: Kharif crop; 6-8 months to mature
-- **Major Producers**: Maharashtra, Gujarat, MP, Karnataka, AP, Telangana, TN, Punjab, Haryana, UP
-
-#### Jute
-- **Known As**: "Golden fiber"
-- **Growing Areas**: Flood plains with renewed soil
-- **Uses**: Gunny bags, mats, ropes, carpets
-- **Requirements**: High temperature during growth; well-drained fertile soils
-- **Major Producers**: WB, Bihar, Assam, Odisha, Meghalaya
-
-#### Other Fibers
-- Hemp: Various industrial uses
-- Silk: Sericulture (silkworm rearing); Karnataka, WB, J&K, Assam
+| Crop | Climate & Soil Requirements | Characteristics | Major Producers |
+|------|----------------------------|-----------------|-----------------|
+| **Cotton** | • High temperature<br>• Light rainfall/irrigation<br>• 210 frost-free days<br>• Bright sunshine<br>• Black cotton soil (Deccan) | • India: original home of cotton<br>• 2nd largest producer after China<br>• Kharif crop<br>• 6-8 month maturation<br>• Key textile industry raw material | • Maharashtra<br>• Gujarat<br>• MP<br>• Karnataka<br>• AP, Telangana<br>• TN<br>• Punjab<br>• Haryana<br>• UP |
+| **Jute** | • Flood plains with renewed soil<br>• High temperature during growth | • "Golden fiber"<br>• Uses: gunny bags, mats, ropes, carpets<br>• Requires well-drained fertile soils | • WB<br>• Bihar<br>• Assam<br>• Odisha<br>• Meghalaya |
+| **Other Fibers** | • Hemp: Varies by region<br>• Silk: Mulberry cultivation areas | • Hemp: Various industrial uses<br>• Silk: Cocoons fed on mulberry leaves<br>• Sericulture: silkworm rearing | • Silk: Karnataka, WB, J&K, Assam |
 
 ### Horticultural Crops
-- **Position**: 2nd globally after China (2020) in fruits and vegetables
-- **Fruit Specialties**:
-  | Fruit | Major Producing Regions |
-  |-------|-------------------------|
-  | Mangoes | Maharashtra, AP, Telangana, UP, WB |
-  | Oranges | Nagpur, Cherrapunjee (Meghalaya) |
-  | Bananas | Kerala, Mizoram, Maharashtra, TN |
-  | Litchi/Guava | UP, Bihar |
-  | Pineapples | Meghalaya |
-  | Grapes | AP, Telangana, Maharashtra |
-  | Apples/Pears/Apricots | J&K, HP |
-- **Key Vegetables**: Pea, cauliflower, onion, cabbage, tomato, brinjal, potato
+- 2nd globally after China (2020) in fruits and vegetables production
+- Both tropical and temperate fruits grown in India
+- Regional specialties:
+  - Mangoes: Maharashtra, AP, Telangana, UP, WB
+  - Oranges: Nagpur, Cherrapunjee (Meghalaya)
+  - Bananas: Kerala, Mizoram, Maharashtra, TN
+  - Lichi/guava: UP, Bihar
+  - Pineapples: Meghalaya
+  - Grapes: AP, Telangana, Maharashtra
+  - Apples, pears, apricots, walnuts: J&K, HP
+- Key vegetables: pea, cauliflower, onion, cabbage, tomato, brinjal, potato
+- Requires specialized conditions and infrastructure
 
 ## Agricultural Reforms
 
