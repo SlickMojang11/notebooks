@@ -134,7 +134,7 @@
 ### 5.2 Non-Conventional Sources
 
 | Source | Key Features | Locations in India |
-|--------|-------------|-------------------|
+|--------|-------------|------------------|
 | **Solar Energy** | 300 clear sunny days annually | Largest plant: Madhapur near Bhuj (Gujarat) |
 | **Wind Energy** | Significant potential | Tamil Nadu (largest), AP, Karnataka, Gujarat, Kerala, Maharashtra |
 | **Biogas** | From organic waste | Rural "Gobar gas plants" from cattle dung |
