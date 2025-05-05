@@ -2645,11 +2645,6 @@
     },
     {
       "type": "file",
-      "name": "file.html",
-      "path": "file.html"
-    },
-    {
-      "type": "file",
       "name": "files.json",
       "path": "files.json"
     }
