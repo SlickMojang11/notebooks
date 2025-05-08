@@ -51,10 +51,6 @@
 
 ### Food Grains
 
-## Major Crops
-
-### Food Grains
-
 | Crop | Climate Requirements | Characteristics | Major Producers |
 |------|----------------------|-----------------|-----------------|
 | **Rice** | • >25°C temperature<br>• High humidity<br>• >100cm rainfall<br>• Can grow with irrigation in low rainfall areas | • 2nd largest producer (after China)<br>• Kharif crop<br>• Plains, coastal, delta regions<br>• Three crops in some regions: Aus, Aman, Boro<br>• Staple food of majority in India | • Assam<br>• WB<br>• Odisha<br>• AP, Telangana<br>• TN<br>• Kerala<br>• Maharashtra<br>• UP<br>• Bihar<br>• Punjab<br>• Haryana |
