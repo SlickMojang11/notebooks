@@ -327,6 +327,25 @@
  <div id="mobilePreviewContent"></div>
  </div>
  </div>
+ <script>
+document.addEventListener("DOMContentLoaded", () => {
+  const elements = document.querySelectorAll("body, body *");
+
+  elements.forEach(el => {
+    if (el.childNodes.length) {
+      el.childNodes.forEach(node => {
+        if (node.nodeType === Node.TEXT_NODE) {
+          if (/_/.test(node.textContent)) {
+            console.log("Found underscore:", node.textContent.trim());
+            // You can handle this detection however you want here
+          }
+        }
+      });
+    }
+  });
+});
+                       
+</script>
 <script>
 const grid = document.getElementById("grid");
 const splash = document.getElementById("splash");
