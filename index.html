@@ -952,4 +952,27 @@ async function fetchFileContent(path, filename, container) {
     } else if (ext === 'md' || ext === 'markdown') {
       try {
         const response = await fetch(path);
-        if (!
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const text = await response.text();
+        container.innerHTML = `<div class="markdown-content">${markdownToHTML(text)}</div>`;
+      } catch (error) {
+        container.innerHTML = `<div class="error">Error loading markdown: ${error.message}</div>`;
+      }
+    } else {
+      try {
+        const response = await fetch(path);
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const text = await response.text();
+        container.innerHTML = `<pre>${text}</pre>`;
+      } catch (error) {
+        container.innerHTML = `<div class="error">Error loading file: ${error.message}</div>`;
+      }
+    }
+  } catch (error) {
+    container.innerHTML = `<div class="error">Error: ${error.message}</div>`;
+  }
+}
