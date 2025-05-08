@@ -2536,12 +2536,44 @@
           "children": [
             {
               "type": "folder",
+              "name": "BENGALI",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-WS.pdf",
+                  "path": "SUMMER-VACATION/ASSIGNMENTS/BENGALI/BENGALI-WS.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "MATHS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "MATHS-WS1.pdf",
+                  "path": "SUMMER-VACATION/ASSIGNMENTS/MATHS/MATHS-WS1.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHS-WS2.pdf",
+                  "path": "SUMMER-VACATION/ASSIGNMENTS/MATHS/MATHS-WS2.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
               "name": "SOCIAL-SCIENCE",
               "children": [
                 {
                   "type": "file",
                   "name": "SOCIAL-SCIENCE-WS1.pdf",
                   "path": "SUMMER-VACATION/ASSIGNMENTS/SOCIAL-SCIENCE/SOCIAL-SCIENCE-WS1.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL-SCIENCE-WS2.pdf",
+                  "path": "SUMMER-VACATION/ASSIGNMENTS/SOCIAL-SCIENCE/SOCIAL-SCIENCE-WS2.pdf"
                 }
               ]
             },
