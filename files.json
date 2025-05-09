@@ -2547,6 +2547,22 @@
             },
             {
               "type": "folder",
+              "name": "ENGLISH",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "ENGLISH-WS1.pdf",
+                  "path": "SUMMER-VACATION/ASSIGNMENTS/ENGLISH/ENGLISH-WS1.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-WS2.pdf",
+                  "path": "SUMMER-VACATION/ASSIGNMENTS/ENGLISH/ENGLISH-WS2.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
               "name": "MATHS",
               "children": [
                 {
@@ -2558,6 +2574,17 @@
                   "type": "file",
                   "name": "MATHS-WS2.pdf",
                   "path": "SUMMER-VACATION/ASSIGNMENTS/MATHS/MATHS-WS2.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "SCIENCE",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "SCIENCE-WS2.pdf",
+                  "path": "SUMMER-VACATION/ASSIGNMENTS/SCIENCE/SCIENCE-WS2.pdf"
                 }
               ]
             },
