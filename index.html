@@ -587,7 +587,7 @@
       <button onclick="goUp()">Up</button>
     </div>
     <div class="path-nav" id="pathNav">
-      <span class="path-segment" onclick="goToRoot()">Root</span>
+      <span class="path-segment" onclick="goToRoot()">☁️</span>
     </div>
     <div class="list-view" id="listView"></div>
   </div>
@@ -848,7 +848,7 @@ function startDrag(e, id) {
 }
 
 function updatePathNav() {
-  pathNav.innerHTML = `<span class="path-segment" onclick="goToRoot()">Root</span>`;
+  pathNav.innerHTML = `<span class="path-segment" onclick="goToRoot()">☁️</span>`;
   
   let currentPath = [];
   for (let i = 0; i < pathHistory.length; i++) {
