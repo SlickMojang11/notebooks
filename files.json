@@ -2742,6 +2742,11 @@
     },
     {
       "type": "file",
+      "name": "fallback.html",
+      "path": "fallback.html"
+    },
+    {
+      "type": "file",
       "name": "files.json",
       "path": "files.json"
     }
