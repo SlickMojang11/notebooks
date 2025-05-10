@@ -693,13 +693,13 @@ async function fetchTree() {
     if (!res.ok) {
       throw new Error(`Failed to fetch: ${res.status}`);
     }
-    
+
     const tree = await res.json();
-	  
-    const tree = JSON.parse(raw);
+    const raw = JSON.stringify(tree, Object.keys(tree).sort()); // stable stringification
+
     const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(raw));
     lastHash = Array.from(new Uint8Array(digest)).map(b => b.toString(16).padStart(2, '0')).join('');
-	  
+
     currentNode = tree;
     pathHistory = [];
     renderFolder(tree);
@@ -713,6 +713,7 @@ async function fetchTree() {
     console.error("Error fetching tree:", error);
   }
 }
+	
 
 function getFileIcon(file) {
   if (file.type === "folder") return FILE_ICONS.folder;
