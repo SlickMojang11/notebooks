@@ -718,13 +718,16 @@ function getFileIcon(file) {
 
 function getFileTypeClass(file) {
   if (file.type === "folder") return "folder";
-  
+
   const ext = file.name.split('.').pop().toLowerCase();
+
   if (["jpg", "jpeg", "png", "gif", "svg", "webp"].includes(ext)) {
     return "image";
   }
-  return ext;
+
+  return ext; // returns 'py', 'html', 'css', etc.
 }
+
 
 function renderFolder(node) {
   listView.innerHTML = "";
