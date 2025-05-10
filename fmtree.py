@@ -6,7 +6,8 @@ EXCLUDED_ROOT_FILES = {
     "tree.py",
     "fmtree.py",
     "index.html",
-    "favicon.png"
+    "favicon.png",
+    "fallback.png"
 }
 
 def build_tree(path, rel_path=""):
