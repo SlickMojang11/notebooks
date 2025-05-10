@@ -1135,7 +1135,8 @@ async function checkForUpdate() {
 }
 
 // Start checking every 20 seconds
-setInterval(checkForUpdate, 20000);
+setTimeout(() => setInterval(checkForUpdate, 20000), 3000);
+
 	
 </script>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
