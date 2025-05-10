@@ -53,6 +53,16 @@
       from { transform: scale(1); }
       to { transform: scale(1.1); }
     }
+	.error {
+		color: red;
+		background: rgba(255, 0, 0, 0.05);
+		border: 1px solid rgba(255, 0, 0, 0.2);
+		padding: 12px;
+		border-radius: 6px;
+		margin: 12px;
+		font-size: 14px;
+		font-family: "Segoe UI", sans-serif;
+	}
 
     .window {
       max-width: 1000px;
@@ -811,6 +821,29 @@ function renderFolder(node) {
   }
 }
 
+function startDrag(e, id) {
+  const el = windows[id];
+  if (!el) return;
+
+  const startX = e.clientX;
+  const startY = e.clientY;
+  const startLeft = parseInt(el.style.left, 10) || 0;
+  const startTop = parseInt(el.style.top, 10) || 0;
+
+  function onMouseMove(ev) {
+    el.style.left = startLeft + (ev.clientX - startX) + "px";
+    el.style.top = startTop + (ev.clientY - startY) + "px";
+  }
+
+  function onMouseUp() {
+    document.removeEventListener("mousemove", onMouseMove);
+    document.removeEventListener("mouseup", onMouseUp);
+  }
+
+  document.addEventListener("mousemove", onMouseMove);
+  document.addEventListener("mouseup", onMouseUp);
+}
+
 function updatePathNav() {
   pathNav.innerHTML = `<span class="path-segment" onclick="goToRoot()">Root</span>`;
   
@@ -864,6 +897,78 @@ function downloadFile(e, index) {
     handleDownload();
   }
 }
+
+function closeWindow(id) {
+  const win = windows[id];
+  if (win) {
+    win.remove();
+    delete windows[id];
+    updateTaskbar();
+  }
+}
+
+function minimizeWindow(id) {
+  const win = windows[id];
+  if (win) {
+    win.style.display = "none";
+    updateTaskbar();
+  }
+}
+
+function updateTaskbar() {
+  const minimized = Object.entries(windows).filter(([_, el]) => el.style.display === "none");
+  
+  if (minimized.length === 0) {
+    taskbar.style.display = "none";
+    taskbar.innerHTML = "";
+    return;
+  }
+
+  taskbar.style.display = "flex";
+  taskbar.innerHTML = "";
+
+  for (const [id, el] of minimized) {
+    const name = el.querySelector(".title")?.textContent || "File";
+
+    const icon = document.createElement("div");
+    icon.className = "task-icon";
+    icon.dataset.name = name;
+    icon.textContent = "📄";
+    icon.onclick = () => {
+      el.style.display = "block";
+      updateTaskbar();
+    };
+
+    taskbar.appendChild(icon);
+  }
+}
+
+function toggleFullscreen(id, forceFull = false) {
+  const w = windows[id];
+  if (!w) return;
+
+  const isFullscreen = w.classList.contains("fullscreen");
+
+  if (forceFull && !isFullscreen) {
+    w.classList.add("fullscreen");
+    return;
+  }
+
+  if (isFullscreen) {
+    w.classList.remove("fullscreen");
+    w.style.width = "80vw";
+    w.style.height = "80vh";
+    w.style.top = "100px";
+    w.style.left = "100px";
+  } else {
+    w.classList.add("fullscreen");
+    w.style.top = "0";
+    w.style.left = "0";
+    w.style.width = "100vw";
+    w.style.height = "100vh";
+  }
+}
+ 
 
 function showContextMenu(x, y) {
   contextMenu.style.top = y + 'px';
@@ -975,5 +1080,19 @@ async function fetchFileContent(path, filename, container) {
   } catch (error) {
     container.innerHTML = `<div class="error">Error: ${error.message}</div>`;
   }
+
+
 }
+
+document.addEventListener("click", (e) => {
+  const isItem = e.target.closest(".file-item");
+  const isContext = e.target.closest(".context-menu");
+  if (!isItem && !isContext) {
+    document.querySelectorAll('.file-item.selected').forEach(el => el.classList.remove('selected'));
+    selected = null;
+    contextMenu.style.display = "none";
+  }
+});
+
 </script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
