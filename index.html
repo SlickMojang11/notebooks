@@ -594,7 +594,7 @@
 
   <div class="context-menu" id="contextMenu">
     <button onclick="handlePreview()"><span class="icon">👁️</span>Preview</button>
-    <button onclick="handleDownload()"><span class="icon">⬇️</span>Download</button>
+    <button onclick="handleDownload()"><span class="icon">📥</span>Download</button>
   </div>
 
   <div class="preview-container" id="previewContainer"></div>
@@ -775,7 +775,7 @@ function renderFolder(node) {
       <div class="file-actions">
         ${child.type === "file" ? `
           <div class="file-action" onclick="previewFile(event, ${i})">👁️</div>
-          <div class="file-action" onclick="downloadFile(event, ${i})">⬇️</div>
+          <div class="file-action" onclick="downloadFile(event, ${i})">📥</div>
         ` : ''}
       </div>
     `;
