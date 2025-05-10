@@ -1116,17 +1116,21 @@ let lastHash = null;
 async function checkForUpdate() {
   try {
     const res = await fetch("files.json?" + Date.now());
-    const data = await res.text();
-    const newHash = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(data));
-    const hashHex = Array.from(new Uint8Array(newHash)).map(b => b.toString(16).padStart(2, '0')).join('');
-    
-    if (lastHash && hashHex !== lastHash) {
+    if (!res.ok) {
+      throw new Error(`Failed to fetch: ${res.status}`);
+    }
+
+    const data = await res.json();
+    const raw = JSON.stringify(data, Object.keys(data).sort());
+
+    const newHashBuffer = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(raw));
+    const newHash = Array.from(new Uint8Array(newHashBuffer)).map(b => b.toString(16).padStart(2, '0')).join('');
+
+    if (lastHash && newHash !== lastHash) {
       document.getElementById("updateNotice").style.display = "flex";
     }
-    
-    lastHash = hashHex;
-  } catch (e) {
-    console.error("Update check failed:", e);
+  } catch (error) {
+    console.error("Update check failed:", error);
   }
 }
 
