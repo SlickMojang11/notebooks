@@ -696,7 +696,7 @@ async function fetchTree() {
     
     const tree = await res.json();
 	  
-    const raw = JSON.stringify(tree);
+    const tree = JSON.parse(raw);
     const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(raw));
     lastHash = Array.from(new Uint8Array(digest)).map(b => b.toString(16).padStart(2, '0')).join('');
 	  
