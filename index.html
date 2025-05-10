@@ -1117,6 +1117,8 @@ let lastHash = null;
 let initialLoadComplete = false;
 
 async function checkForUpdate() {
+  if (!initialLoadComplete) return;
+
   try {
     const res = await fetch("files.json?" + Date.now());
     if (!res.ok) {
@@ -1136,6 +1138,7 @@ async function checkForUpdate() {
     console.error("Update check failed:", error);
   }
 }
+
 
 // Start checking every 20 seconds
 setTimeout(() => setInterval(checkForUpdate, 20000), 3000);
