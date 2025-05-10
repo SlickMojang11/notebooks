@@ -699,6 +699,8 @@ async function fetchTree() {
 
     const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(raw));
     lastHash = Array.from(new Uint8Array(digest)).map(b => b.toString(16).padStart(2, '0')).join('');
+    initialLoadComplete = true;  // Mark it safe to begin detecting updates
+	  
 
     currentNode = tree;
     pathHistory = [];
