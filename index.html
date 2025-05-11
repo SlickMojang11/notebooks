@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Notebook-X File Manager</title>
+  <title>Notebook-X</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" href="favicon.png" />
   <style>
@@ -582,19 +582,19 @@
 
   <div class="window">
     <div class="toolbar">
-      <h1>Notebook-X File Manager</h1>
-      <button onclick="refreshFiles()">Refresh</button>
-      <button onclick="goUp()">Up</button>
+      <h1>Notebook-X</h1>
+      <button onclick="refreshFiles()">↻</button>
+      <button onclick="goUp()">↑</button>
     </div>
     <div class="path-nav" id="pathNav">
-      <span class="path-segment" onclick="goToRoot()">Root</span>
+      <span class="path-segment" onclick="goToRoot()">☁️</span>
     </div>
     <div class="list-view" id="listView"></div>
   </div>
 
   <div class="context-menu" id="contextMenu">
     <button onclick="handlePreview()"><span class="icon">👁️</span>Preview</button>
-    <button onclick="handleDownload()"><span class="icon">⬇️</span>Download</button>
+    <button onclick="handleDownload()"><span class="icon">📥</span>Download</button>
   </div>
 
   <div class="preview-container" id="previewContainer"></div>
@@ -693,8 +693,15 @@ async function fetchTree() {
     if (!res.ok) {
       throw new Error(`Failed to fetch: ${res.status}`);
     }
-    
+
     const tree = await res.json();
+    const raw = JSON.stringify(tree, Object.keys(tree).sort()); // stable stringification
+
+    const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(raw));
+    lastHash = Array.from(new Uint8Array(digest)).map(b => b.toString(16).padStart(2, '0')).join('');
+    initialLoadComplete = true;  // Mark it safe to begin detecting updates
+	  
+
     currentNode = tree;
     pathHistory = [];
     renderFolder(tree);
@@ -708,6 +715,7 @@ async function fetchTree() {
     console.error("Error fetching tree:", error);
   }
 }
+	
 
 function getFileIcon(file) {
   if (file.type === "folder") return FILE_ICONS.folder;
@@ -718,13 +726,16 @@ function getFileIcon(file) {
 
 function getFileTypeClass(file) {
   if (file.type === "folder") return "folder";
-  
+
   const ext = file.name.split('.').pop().toLowerCase();
+
   if (["jpg", "jpeg", "png", "gif", "svg", "webp"].includes(ext)) {
     return "image";
   }
-  return ext;
+
+  return ext; // returns 'py', 'html', 'css', etc.
 }
+
 
 function renderFolder(node) {
   listView.innerHTML = "";
@@ -772,7 +783,7 @@ function renderFolder(node) {
       <div class="file-actions">
         ${child.type === "file" ? `
           <div class="file-action" onclick="previewFile(event, ${i})">👁️</div>
-          <div class="file-action" onclick="downloadFile(event, ${i})">⬇️</div>
+          <div class="file-action" onclick="downloadFile(event, ${i})">📥</div>
         ` : ''}
       </div>
     `;
@@ -845,7 +856,7 @@ function startDrag(e, id) {
 }
 
 function updatePathNav() {
-  pathNav.innerHTML = `<span class="path-segment" onclick="goToRoot()">Root</span>`;
+  pathNav.innerHTML = `<span class="path-segment" onclick="goToRoot()">☁️</span>`;
   
   let currentPath = [];
   for (let i = 0; i < pathHistory.length; i++) {
@@ -1094,5 +1105,51 @@ document.addEventListener("click", (e) => {
   }
 });
 
+window.addEventListener("DOMContentLoaded", fetchTree);
+				     
+</script>
+<script>
+  function markdownToHTML(text) {
+    return marked.parse(text);
+  }
+	
+let lastHash = null;
+let initialLoadComplete = false;
+
+async function checkForUpdate() {
+  if (!initialLoadComplete) return;
+
+  try {
+    const res = await fetch("files.json?" + Date.now());
+    if (!res.ok) {
+      throw new Error(`Failed to fetch: ${res.status}`);
+    }
+
+    const data = await res.json();
+    const raw = JSON.stringify(data, Object.keys(data).sort());
+
+    const newHashBuffer = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(raw));
+    const newHash = Array.from(new Uint8Array(newHashBuffer)).map(b => b.toString(16).padStart(2, '0')).join('');
+
+    if (lastHash && newHash !== lastHash) {
+      document.getElementById("updateNotice").style.display = "flex";
+    }
+  } catch (error) {
+    console.error("Update check failed:", error);
+  }
+}
+
+
+// Start checking every 20 seconds
+setTimeout(() => setInterval(checkForUpdate, 20000), 3000);
+
+	
 </script>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<div id="updateNotice" style="display:none;position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:var(--item);color:var(--fg);padding:12px 20px;border:1px solid var(--border);border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.2);z-index:9999;display:flex;align-items:center;gap:12px;">
+  <span>Update detected. Refresh now to apply changes.</span>
+  <button onclick="location.reload()" style="background:var(--accent);color:white;border:none;padding:6px 12px;border-radius:4px;cursor:pointer;">Refresh</button>
+  <button onclick="document.getElementById('updateNotice').style.display='none'" style="background:none;border:none;color:var(--fg);font-size:18px;cursor:pointer;">×</button>
+	</div>
+</body>
+</html>
