@@ -693,14 +693,25 @@ async function fetchTree() {
     if (!res.ok) {
       throw new Error(`Failed to fetch: ${res.status}`);
     }
-
+    
     const tree = await res.json();
     const raw = JSON.stringify(tree, Object.keys(tree).sort()); // stable stringification
 
     const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(raw));
     lastHash = Array.from(new Uint8Array(digest)).map(b => b.toString(16).padStart(2, '0')).join('');
     initialLoadComplete = true;  // Mark it safe to begin detecting updates
-	  
+    try {
+		lastCommit = await fetchLatestCommit();
+	} catch (e) {
+		console.warn("Could not fetch latest commit:", e);
+	}
+	setTimeout(() => setInterval(checkForUpdate, 20000), 3000);
+	
+	if (!window.updateCheckStarted) {
+    window.updateCheckStarted = true;
+    setInterval(checkForUpdate, 20000);
+    }
+
 
     currentNode = tree;
     pathHistory = [];
@@ -1106,6 +1117,15 @@ document.addEventListener("click", (e) => {
 });
 
 window.addEventListener("DOMContentLoaded", fetchTree);
+
+let lastCommit = null;
+
+async function fetchLatestCommit() {
+  const res = await fetch("https://api.github.com/repos/YOUR_USERNAME/YOUR_REPO_NAME/commits?per_page=1");
+  const data = await res.json();
+  return data[0].sha;
+}
+
 				     
 </script>
 <script>
@@ -1131,7 +1151,7 @@ async function checkForUpdate() {
     const newHashBuffer = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(raw));
     const newHash = Array.from(new Uint8Array(newHashBuffer)).map(b => b.toString(16).padStart(2, '0')).join('');
 
-    if (lastHash && newHash !== lastHash) {
+    if (lastHash && newHash && newHash !== lastHash) {
       document.getElementById("updateNotice").style.display = "flex";
     }
   } catch (error) {
