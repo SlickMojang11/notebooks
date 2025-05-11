@@ -699,12 +699,13 @@ async function fetchTree() {
 
     const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(raw));
     lastHash = Array.from(new Uint8Array(digest)).map(b => b.toString(16).padStart(2, '0')).join('');
-    initialLoadComplete = true;  // Mark it safe to begin detecting updates
+    initialLoadComplete = true;
     try {
-		lastCommit = await fetchLatestCommit();
-	} catch (e) {
-		console.warn("Could not fetch latest commit:", e);
-	}
+      lastCommit = await fetchLatestCommit();
+    } catch (e) {
+      console.warn("Failed to fetch initial commit:", e);
+    }
+
 	setTimeout(() => setInterval(checkForUpdate, 20000), 3000);
 	
 	if (!window.updateCheckStarted) {
@@ -1121,7 +1122,7 @@ window.addEventListener("DOMContentLoaded", fetchTree);
 let lastCommit = null;
 
 async function fetchLatestCommit() {
-  const res = await fetch("https://api.github.com/repos/YOUR_USERNAME/YOUR_REPO_NAME/commits?per_page=1");
+  const res = await fetch("https://api.github.com/repos/ubst-official/notebooks/commits?per_page=1");
   const data = await res.json();
   return data[0].sha;
 }
@@ -1135,29 +1136,39 @@ async function fetchLatestCommit() {
 	
 let lastHash = null;
 let initialLoadComplete = false;
+async function fetchLatestCommit() {
+  try {
+    const res = await fetch("https://api.github.com/repos/ubsr-official/notebooks/commits?per_page=1");
+
+    if (!res.ok) {
+      throw new Error(`GitHub API returned ${res.status}`);
+    }
+
+    const data = await res.json();
+
+    if (!Array.isArray(data) || !data[0]?.sha) {
+      throw new Error("Unexpected response format from GitHub API");
+    }
+
+    return data[0].sha;
+
+  } catch (err) {
+    console.error("Could not fetch latest commit:", err);
+    return null;
+  }
+}
 
 async function checkForUpdate() {
   if (!initialLoadComplete) return;
 
-  try {
-    const res = await fetch("files.json?" + Date.now());
-    if (!res.ok) {
-      throw new Error(`Failed to fetch: ${res.status}`);
-    }
+  const newCommit = await fetchLatestCommit();
+  if (!newCommit) return;
 
-    const data = await res.json();
-    const raw = JSON.stringify(data, Object.keys(data).sort());
-
-    const newHashBuffer = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(raw));
-    const newHash = Array.from(new Uint8Array(newHashBuffer)).map(b => b.toString(16).padStart(2, '0')).join('');
-
-    if (lastHash && newHash && newHash !== lastHash) {
-      document.getElementById("updateNotice").style.display = "flex";
-    }
-  } catch (error) {
-    console.error("Update check failed:", error);
+  if (lastCommit && newCommit !== lastCommit) {
+    document.getElementById("updateNotice").style.display = "flex";
   }
 }
+
 
 
 // Start checking every 20 seconds
