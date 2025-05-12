@@ -706,7 +706,7 @@ async function fetchTree() {
       console.warn("Failed to fetch initial commit:", e);
     }
 
-	setTimeout(() => setInterval(checkForUpdate, 20000), 3000);
+	
 	
 	if (!window.updateCheckStarted) {
     window.updateCheckStarted = true;
@@ -1128,13 +1128,6 @@ document.addEventListener("click", (e) => {
 
 window.addEventListener("DOMContentLoaded", fetchTree);
 
-let lastCommit = null;
-
-async function fetchLatestCommit() {
-  const res = await fetch("https://api.github.com/repos/ubst-official/notebooks/commits?per_page=1");
-  const data = await res.json();
-  return data[0].sha;
-}
 
 				     
 </script>
@@ -1181,8 +1174,6 @@ async function checkForUpdate() {
 
 
 
-// Start checking every 20 seconds
-setTimeout(() => setInterval(checkForUpdate, 20000), 3000);
 
 	
 </script>
