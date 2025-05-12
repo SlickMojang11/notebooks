@@ -720,7 +720,16 @@ async function fetchTree() {
     updatePathNav();
     
     splash.style.opacity = 0;
-    setTimeout(() => splash.style.display = 'none', 500);
+    setTimeout(() => {
+      splash.style.display = 'none';
+
+      // Start update checks only after splash is gone
+      if (!window.updateCheckStarted) {
+        window.updateCheckStarted = true;
+        setInterval(checkForUpdate, 20000); // or 60000 for 1-minute interval
+      }
+    }, 500);
+
     showStatus("Files loaded successfully!");
   } catch (error) {
     showStatus("Error loading files: " + error.message);
@@ -1153,7 +1162,8 @@ async function fetchLatestCommit() {
     return data[0].sha;
 
   } catch (err) {
-    console.error("Could not fetch latest commit:", err);
+	  showStatus("Could not fetch latest commit: " + err.message);
+      console.error("Could not fetch latest commit:", err);
     return null;
   }
 }
