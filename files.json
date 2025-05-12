@@ -2615,6 +2615,17 @@
               "path": "SUMMER-VACATION/ASSIGNMENTS/SOURCE-WS.pdf"
             }
           ]
+        },
+        {
+          "type": "folder",
+          "name": "PROJECTS",
+          "children": [
+            {
+              "type": "file",
+              "name": "SOURCE-PR.pdf",
+              "path": "SUMMER-VACATION/PROJECTS/SOURCE-PR.pdf"
+            }
+          ]
         }
       ]
     },
