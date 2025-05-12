@@ -706,7 +706,7 @@ async function fetchTree() {
       console.warn("Failed to fetch initial commit:", e);
     }
 
-	setTimeout(() => setInterval(checkForUpdate, 20000), 3000);
+	
 	
 	if (!window.updateCheckStarted) {
     window.updateCheckStarted = true;
@@ -720,7 +720,16 @@ async function fetchTree() {
     updatePathNav();
     
     splash.style.opacity = 0;
-    setTimeout(() => splash.style.display = 'none', 500);
+    setTimeout(() => {
+      splash.style.display = 'none';
+
+      // Start update checks only after splash is gone
+      if (!window.updateCheckStarted) {
+        window.updateCheckStarted = true;
+        setTimeout(() => setInterval(checkForUpdate, 20000), 5000); // or 60000 for 1-minute interval
+      }
+    }, 500);
+
     showStatus("Files loaded successfully!");
   } catch (error) {
     showStatus("Error loading files: " + error.message);
@@ -1119,13 +1128,6 @@ document.addEventListener("click", (e) => {
 
 window.addEventListener("DOMContentLoaded", fetchTree);
 
-let lastCommit = null;
-
-async function fetchLatestCommit() {
-  const res = await fetch("https://api.github.com/repos/ubst-official/notebooks/commits?per_page=1");
-  const data = await res.json();
-  return data[0].sha;
-}
 
 				     
 </script>
@@ -1133,7 +1135,8 @@ async function fetchLatestCommit() {
   function markdownToHTML(text) {
     return marked.parse(text);
   }
-	
+  
+let lastCommit = null;	
 let lastHash = null;
 let initialLoadComplete = false;
 async function fetchLatestCommit() {
@@ -1153,7 +1156,8 @@ async function fetchLatestCommit() {
     return data[0].sha;
 
   } catch (err) {
-    console.error("Could not fetch latest commit:", err);
+	  showStatus("Could not fetch latest commit: " + err.message);
+      console.error("Could not fetch latest commit:", err);
     return null;
   }
 }
@@ -1163,21 +1167,23 @@ async function checkForUpdate() {
 
   const newCommit = await fetchLatestCommit();
   if (!newCommit) return;
+  
+  console.log("lastCommit:", lastCommit);
+  console.log("newCommit:", newCommit);
 
   if (lastCommit && newCommit !== lastCommit) {
-    document.getElementById("updateNotice").style.display = "flex";
+    const notice = document.getElementById("updateNotice");
+    if (notice && notice.style.display !== "flex") {
+      notice.style.display = "flex";
+    }
+
   }
-}
+}	
 
 
-
-// Start checking every 20 seconds
-setTimeout(() => setInterval(checkForUpdate, 20000), 3000);
-
-	
 </script>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-<div id="updateNotice" style="display:none;position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:var(--item);color:var(--fg);padding:12px 20px;border:1px solid var(--border);border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.2);z-index:9999;display:flex;align-items:center;gap:12px;">
+<div id="updateNotice" style="display: none !important; position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%); background: var(--item); color: var(--fg); padding: 12px 20px; border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2); z-index: 9999; align-items: center; gap: 12px;">
   <span>Update detected. Refresh now to apply changes.</span>
   <button onclick="location.reload()" style="background:var(--accent);color:white;border:none;padding:6px 12px;border-radius:4px;cursor:pointer;">Refresh</button>
   <button onclick="document.getElementById('updateNotice').style.display='none'" style="background:none;border:none;color:var(--fg);font-size:18px;cursor:pointer;">×</button>
