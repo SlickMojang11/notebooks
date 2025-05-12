@@ -1170,12 +1170,10 @@ async function checkForUpdate() {
   if (lastCommit && newCommit !== lastCommit) {
     document.getElementById("updateNotice").style.display = "flex";
   }
-}
+}	
+console.log("lastCommit:", lastCommit);
+console.log("newCommit:", newCommit);
 
-
-
-
-	
 </script>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <div id="updateNotice" style="display:none;position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:var(--item);color:var(--fg);padding:12px 20px;border:1px solid var(--border);border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.2);z-index:9999;display:flex;align-items:center;gap:12px;">
